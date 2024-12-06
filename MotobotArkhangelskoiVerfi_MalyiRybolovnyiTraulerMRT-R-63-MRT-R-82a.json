@@ -1,0 +1,294 @@
+{
+  "Directory": "MotobotArkhangelskoiVerfi_MalyiRybolovnyiTraulerMRT-R-63-MRT-R-82a",
+  "OriginalName": "Мотобот Архангельской Верфи_Малый Рыболовный Траулер МРТ-Р-63  -  МРТ-Р-82а",
+  "Description": null,
+  "Files": {
+    "F7099B5AD2882A6B4CF94CC251B308DB": {
+      "ResultFileName": "27188_MRT_SkhemaUstanovkiTakhometra.tif",
+      "OriginalName": "27188_МРТ_СхемаУстановкиТахометра.tif",
+      "PngFile": "27188_MRT_SkhemaUstanovkiTakhometra.png",
+      "Tags": [
+        "М Р Т",
+        "Схема Установки Тахометра"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "27188_MRT_SkhemaUstanovkiTakhometra_400.png"
+      }
+    },
+    "4F81D7B79A939900D37E3518A9C74C7E": {
+      "ResultFileName": "27189_MRT_SchitokUpravleniyaDvigatelem.tif",
+      "OriginalName": "27189_МРТ_ЩитокУправленияДвигателем.tif",
+      "PngFile": "27189_MRT_SchitokUpravleniyaDvigatelem.png",
+      "Tags": [
+        "М Р Т",
+        "Щиток Управления Двигателем"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "27189_MRT_SchitokUpravleniyaDvigatelem_400.png"
+      }
+    },
+    "35364824004F79FEB0065049ACF842B7": {
+      "ResultFileName": "27190_MRT_SchitokUpravleniyaDvigatelem_Panel_1947.tif",
+      "OriginalName": "27190_МРТ_ЩитокУправленияДвигателем_Панель_1947.tif",
+      "PngFile": "27190_MRT_SchitokUpravleniyaDvigatelem_Panel_1947.png",
+      "Tags": [
+        "М Р Т",
+        "Щиток Управления Двигателем",
+        "Панель"
+      ],
+      "Year": "1947",
+      "Thumbnails": {
+        "400": "27190_MRT_SchitokUpravleniyaDvigatelem_Panel_1947_400.png"
+      }
+    },
+    "93810EFEAB0EFFF2AA7446C6BFA5AAEE": {
+      "ResultFileName": "27191_MRT_SchitokUpravleniyaDvigatelem_Planka.tif",
+      "OriginalName": "27191_МРТ_ЩитокУправленияДвигателем_Планка.tif",
+      "PngFile": "27191_MRT_SchitokUpravleniyaDvigatelem_Planka.png",
+      "Tags": [
+        "М Р Т",
+        "Щиток Управления Двигателем",
+        "Планка"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "27191_MRT_SchitokUpravleniyaDvigatelem_Planka_400.png"
+      }
+    },
+    "6B55CE85676798C304C0E6C8230CA5E9": {
+      "ResultFileName": "552-M1-01_MotobotArkhangelskoiVerfi_UpravleniePodacheiToplivaIReversomIzRulevoiRubki_1950.tif",
+      "OriginalName": "552-М1-01_МотоботАрхангельскойВерфи_УправлениеПодачейТопливаИРеверсомИзРулевойРубки_1950.tif",
+      "PngFile": "552-M1-01_MotobotArkhangelskoiVerfi_UpravleniePodacheiToplivaIReversomIzRulevoiRubki_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Управление Подачей Топлива И Реверсом Из Рулевой Рубки"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-01_MotobotArkhangelskoiVerfi_UpravleniePodacheiToplivaIReversomIzRulevoiRubki_1950_400.png"
+      }
+    },
+    "650CFB724A4DA0565093364822A082A0": {
+      "ResultFileName": "552-M1-02_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyVerkhnii_Detali_1950.tif",
+      "OriginalName": "552-М1-02_МотоботАрхангельскойВерфи_РычагВключенияРеверсивнойМуфтыВерхний_Детали_1950.tif",
+      "PngFile": "552-M1-02_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyVerkhnii_Detali_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Рычаг Включения Реверсивной Муфты Верхний",
+        "Детали"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-02_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyVerkhnii_Detali_1950_400.png"
+      }
+    },
+    "45AD9339F67070B6CF5E9B7EFDD9B121": {
+      "ResultFileName": "552-M1-02_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyVerkhnii_ObschiiVid_1950.tif",
+      "OriginalName": "552-М1-02_МотоботАрхангельскойВерфи_РычагВключенияРеверсивнойМуфтыВерхний_ОбщийВид_1950.tif",
+      "PngFile": "552-M1-02_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyVerkhnii_ObschiiVid_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Рычаг Включения Реверсивной Муфты Верхний",
+        "Общий Вид"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-02_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyVerkhnii_ObschiiVid_1950_400.png"
+      }
+    },
+    "7161AC1FD1543814E7D7B17F10F854C0": {
+      "ResultFileName": "552-M1-03_MotobotArkhangelskoiVerfi_TyagaVklyucheniyaReversivnoiMuftyVerkhnyaya_1950.tif",
+      "OriginalName": "552-М1-03_МотоботАрхангельскойВерфи_ТягаВключенияРеверсивнойМуфтыВерхняя_1950.tif",
+      "PngFile": "552-M1-03_MotobotArkhangelskoiVerfi_TyagaVklyucheniyaReversivnoiMuftyVerkhnyaya_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Тяга Включения Реверсивной Муфты Верхняя"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-03_MotobotArkhangelskoiVerfi_TyagaVklyucheniyaReversivnoiMuftyVerkhnyaya_1950_400.png"
+      }
+    },
+    "13EF54AAC9082FCB99AF6B25FF29770A": {
+      "ResultFileName": "552-M1-04_MotobotArkhangelskoiVerfi_ValVklyucheniyaReversivnoiMufty_Detali_1950.tif",
+      "OriginalName": "552-М1-04_МотоботАрхангельскойВерфи_ВалВключенияРеверсивнойМуфты_Детали_1950.tif",
+      "PngFile": "552-M1-04_MotobotArkhangelskoiVerfi_ValVklyucheniyaReversivnoiMufty_Detali_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Вал Включения Реверсивной Муфты",
+        "Детали"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-04_MotobotArkhangelskoiVerfi_ValVklyucheniyaReversivnoiMufty_Detali_1950_400.png"
+      }
+    },
+    "9D17530947DB667D2C644E99D42CDE2A": {
+      "ResultFileName": "552-M1-04_MotobotArkhangelskoiVerfi_ValVklyucheniyaReversivnoiMufty_ObschiiVid_1950.tif",
+      "OriginalName": "552-М1-04_МотоботАрхангельскойВерфи_ВалВключенияРеверсивнойМуфты_ОбщийВид_1950.tif",
+      "PngFile": "552-M1-04_MotobotArkhangelskoiVerfi_ValVklyucheniyaReversivnoiMufty_ObschiiVid_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Вал Включения Реверсивной Муфты",
+        "Общий Вид"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-04_MotobotArkhangelskoiVerfi_ValVklyucheniyaReversivnoiMufty_ObschiiVid_1950_400.png"
+      }
+    },
+    "146E5CBCB3BBAD9FFE3D9DB873BDFF93": {
+      "ResultFileName": "552-M1-05_MotobotArkhangelskoiVerfi_TyagaVklyucheniyaReversivnoiMuftyNizhnyaya_1950.tif",
+      "OriginalName": "552-М1-05_МотоботАрхангельскойВерфи_ТягаВключенияРеверсивнойМуфтыНижняя_1950.tif",
+      "PngFile": "552-M1-05_MotobotArkhangelskoiVerfi_TyagaVklyucheniyaReversivnoiMuftyNizhnyaya_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Тяга Включения Реверсивной Муфты Нижняя"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-05_MotobotArkhangelskoiVerfi_TyagaVklyucheniyaReversivnoiMuftyNizhnyaya_1950_400.png"
+      }
+    },
+    "FFD2801EE84E3B602936C1E916C59FF5": {
+      "ResultFileName": "552-M1-06_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyNizhnii_1950.tif",
+      "OriginalName": "552-М1-06_МотоботАрхангельскойВерфи_РычагВключенияРеверсивнойМуфтыНижний_1950.tif",
+      "PngFile": "552-M1-06_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyNizhnii_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Рычаг Включения Реверсивной Муфты Нижний"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-06_MotobotArkhangelskoiVerfi_RychagVklyucheniyaReversivnoiMuftyNizhnii_1950_400.png"
+      }
+    },
+    "11AEA8A5DE55BB1431A356B4E8BAE27F": {
+      "ResultFileName": "552-M1-07_MotobotArkhangelskoiVerfi_SektorUpravleniyaToplivom_Detali_1950.tif",
+      "OriginalName": "552-М1-07_МотоботАрхангельскойВерфи_СекторУправленияТопливом_Детали_1950.tif",
+      "PngFile": "552-M1-07_MotobotArkhangelskoiVerfi_SektorUpravleniyaToplivom_Detali_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Сектор Управления Топливом",
+        "Детали"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-07_MotobotArkhangelskoiVerfi_SektorUpravleniyaToplivom_Detali_1950_400.png"
+      }
+    },
+    "2CC59C478AA932C7BE0D491DBA55803E": {
+      "ResultFileName": "552-M1-07_MotobotArkhangelskoiVerfi_SektorUpravleniyaToplivom_ObschiiVid_1950.tif",
+      "OriginalName": "552-М1-07_МотоботАрхангельскойВерфи_СекторУправленияТопливом_ОбщийВид_1950.tif",
+      "PngFile": "552-M1-07_MotobotArkhangelskoiVerfi_SektorUpravleniyaToplivom_ObschiiVid_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Сектор Управления Топливом",
+        "Общий Вид"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-07_MotobotArkhangelskoiVerfi_SektorUpravleniyaToplivom_ObschiiVid_1950_400.png"
+      }
+    },
+    "7386A5798AD0C805358BD7FED51198B6": {
+      "ResultFileName": "552-M1-08_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomVerkhnyaya_Detali_1950.tif",
+      "OriginalName": "552-М1-08_МотоботАрхангельскойВерфи_ТягаУправленияТопливомВерхняя_Детали_1950.tif",
+      "PngFile": "552-M1-08_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomVerkhnyaya_Detali_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Тяга Управления Топливом Верхняя",
+        "Детали"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-08_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomVerkhnyaya_Detali_1950_400.png"
+      }
+    },
+    "D878CF996F8B0623A6B787C9629146FC": {
+      "ResultFileName": "552-M1-08_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomVerkhnyaya_ObschiiVid_1950.tif",
+      "OriginalName": "552-М1-08_МотоботАрхангельскойВерфи_ТягаУправленияТопливомВерхняя_ОбщийВид_1950.tif",
+      "PngFile": "552-M1-08_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomVerkhnyaya_ObschiiVid_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Тяга Управления Топливом Верхняя",
+        "Общий Вид"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-08_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomVerkhnyaya_ObschiiVid_1950_400.png"
+      }
+    },
+    "F429BC05463A06CD5F351D4882603020": {
+      "ResultFileName": "552-M1-09_MotobotArkhangelskoiVerfi_ValUpravleniyaToplivom_ObschiiVid_1950.tif",
+      "OriginalName": "552-М1-09_МотоботАрхангельскойВерфи_ВалУправленияТопливом_ОбщийВид_1950.tif",
+      "PngFile": "552-M1-09_MotobotArkhangelskoiVerfi_ValUpravleniyaToplivom_ObschiiVid_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Вал Управления Топливом",
+        "Общий Вид"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-09_MotobotArkhangelskoiVerfi_ValUpravleniyaToplivom_ObschiiVid_1950_400.png"
+      }
+    },
+    "520AEE0CA96A3B854B2FABF635FB9540": {
+      "ResultFileName": "552-M1-10_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomNizhnyaya_1950.tif",
+      "OriginalName": "552-М1-10_МотоботАрхангельскойВерфи_ТягаУправленияТопливомНижняя_1950.tif",
+      "PngFile": "552-M1-10_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomNizhnyaya_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Тяга Управления Топливом Нижняя"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-10_MotobotArkhangelskoiVerfi_TyagaUpravleniyaToplivomNizhnyaya_1950_400.png"
+      }
+    },
+    "E7F87BF45ED94AFADA3685AC234CEC30": {
+      "ResultFileName": "552-M1-11_MotobotArkhangelskoiVerfi_RychagUpravleniyaToplivom_1950.tif",
+      "OriginalName": "552-М1-11_МотоботАрхангельскойВерфи_РычагУправленияТопливом_1950.tif",
+      "PngFile": "552-M1-11_MotobotArkhangelskoiVerfi_RychagUpravleniyaToplivom_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Рычаг Управления Топливом"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-11_MotobotArkhangelskoiVerfi_RychagUpravleniyaToplivom_1950_400.png"
+      }
+    },
+    "0A6793EBB290DEBF8692E72CB99D7E92": {
+      "ResultFileName": "552-M1-12_MotobotArkhangelskoiVerfi_Shaiba_1950.tif",
+      "OriginalName": "552-М1-12_МотоботАрхангельскойВерфи_Шайба_1950.tif",
+      "PngFile": "552-M1-12_MotobotArkhangelskoiVerfi_Shaiba_1950.png",
+      "Tags": [
+        "М 1",
+        "Мотобот Архангельской Верфи",
+        "Шайба"
+      ],
+      "Year": "1950",
+      "Thumbnails": {
+        "400": "552-M1-12_MotobotArkhangelskoiVerfi_Shaiba_1950_400.png"
+      }
+    }
+  }
+}

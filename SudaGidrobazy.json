@@ -1,0 +1,1478 @@
+{
+  "Directory": "SudaGidrobazy",
+  "OriginalName": "Суда Гидробазы",
+  "Description": null,
+  "Files": {
+    "1EA90193A7A4FFD5A4009D372C55D855": {
+      "ResultFileName": "01_3_SudaGidrobazy_KorpusVodyanogoKholodilnika_1965.tif",
+      "OriginalName": "01_3_СудаГидробазы_КорпусВодяногоХолодильника_1965.tif",
+      "PngFile": "01_3_SudaGidrobazy_KorpusVodyanogoKholodilnika_1965.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Корпус Водяного Холодильника"
+      ],
+      "Year": "1965",
+      "Thumbnails": {
+        "400": "01_3_SudaGidrobazy_KorpusVodyanogoKholodilnika_1965_400.png"
+      }
+    },
+    "3531B329E95251E7BCE41EBFD08041E9": {
+      "ResultFileName": "02_6_SudaGidrobazy_KolpachkiKGlavnomuDvigatelyu_1962.tif",
+      "OriginalName": "02_6_СудаГидробазы_КолпачкиКГлавномуДвигателю_1962.tif",
+      "PngFile": "02_6_SudaGidrobazy_KolpachkiKGlavnomuDvigatelyu_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Колпачки К Главному Двигателю"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "02_6_SudaGidrobazy_KolpachkiKGlavnomuDvigatelyu_1962_400.png"
+      }
+    },
+    "2C703EDED7E5C8178E5A8429970D3446": {
+      "ResultFileName": "03_9_SudaGidrobazy_Buksovka_1961.tif",
+      "OriginalName": "03_9_СудаГидробазы_Буксовка_1961.tif",
+      "PngFile": "03_9_SudaGidrobazy_Buksovka_1961.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Буксовка"
+      ],
+      "Year": "1961",
+      "Thumbnails": {
+        "400": "03_9_SudaGidrobazy_Buksovka_1961_400.png"
+      }
+    },
+    "1B623F601671C0947787ACDB3D6C232A": {
+      "ResultFileName": "04_10_SudaGidrobazy_Inei_KronshteinKVentilyatoruKambuza_1961.tif",
+      "OriginalName": "04_10_СудаГидробазы_Иней_КронштейнКВентиляторуКамбуза_1961.tif",
+      "PngFile": "04_10_SudaGidrobazy_Inei_KronshteinKVentilyatoruKambuza_1961.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Кронштейн К Вентилятору Камбуза"
+      ],
+      "Year": "1961",
+      "Thumbnails": {
+        "400": "04_10_SudaGidrobazy_Inei_KronshteinKVentilyatoruKambuza_1961_400.png"
+      }
+    },
+    "F6A92F0375D264ED3B4543799B4CD787": {
+      "ResultFileName": "05_389-95-48_SudaGidrobazy_ObscheeRaspolozhenie_ProdolRazrez_PlanRubki.tif",
+      "OriginalName": "05_389-95-48_СудаГидробазы_ОбщееРасположение_ПродолРазрез_ПланРубки.tif",
+      "PngFile": "05_389-95-48_SudaGidrobazy_ObscheeRaspolozhenie_ProdolRazrez_PlanRubki.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Общее Расположение",
+        "Продол Разрез",
+        "План Рубки"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "05_389-95-48_SudaGidrobazy_ObscheeRaspolozhenie_ProdolRazrez_PlanRubki_400.png"
+      }
+    },
+    "29593FDF08A1CB88122C68909FE9B4E8": {
+      "ResultFileName": "06_1847_SudaGidrobazy_GvozdiKorabelnye_1960.tif",
+      "OriginalName": "06_1847_СудаГидробазы_ГвоздиКорабельные_1960.tif",
+      "PngFile": "06_1847_SudaGidrobazy_GvozdiKorabelnye_1960.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Гвозди Корабельные"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "06_1847_SudaGidrobazy_GvozdiKorabelnye_1960_400.png"
+      }
+    },
+    "CF08E689A4AB4A92ED786551D53472CB": {
+      "ResultFileName": "07_3105_SudaGidrobazy_Rul_NavesNizhniiVerkhnii_1974.tif",
+      "OriginalName": "07_3105_СудаГидробазы_Руль_НавесНижнийВерхний_1974.tif",
+      "PngFile": "07_3105_SudaGidrobazy_Rul_NavesNizhniiVerkhnii_1974.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Руль",
+        "Навес Нижний Верхний"
+      ],
+      "Year": "1974",
+      "Thumbnails": {
+        "400": "07_3105_SudaGidrobazy_Rul_NavesNizhniiVerkhnii_1974_400.png"
+      }
+    },
+    "205939C2DE65EE1F452B36600186EEE2": {
+      "ResultFileName": "08_3105_SudaGidrobazy_Rumpel_Okovka_Rul_OkovkaTortsa_1974.tif",
+      "OriginalName": "08_3105_СудаГидробазы_Румпель_Оковка_Руль_ОковкаТорца_1974.tif",
+      "PngFile": "08_3105_SudaGidrobazy_Rumpel_Okovka_Rul_OkovkaTortsa_1974.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Румпель",
+        "Оковка",
+        "Руль",
+        "Оковка Торца"
+      ],
+      "Year": "1974",
+      "Thumbnails": {
+        "400": "08_3105_SudaGidrobazy_Rumpel_Okovka_Rul_OkovkaTortsa_1974_400.png"
+      }
+    },
+    "0B03E931A9362AC8AA81712B1F9588E9": {
+      "ResultFileName": "09_E75333R_SudaGidrobazy_NapravlyayuschayaKlapana_1953.tif",
+      "OriginalName": "09_E75333R_СудаГидробазы_НаправляющаяКлапана_1953.tif",
+      "PngFile": "09_E75333R_SudaGidrobazy_NapravlyayuschayaKlapana_1953.png",
+      "Tags": [
+        "E 75333 R",
+        "Суда Гидробазы",
+        "Направляющая Клапана"
+      ],
+      "Year": "1953",
+      "Thumbnails": {
+        "400": "09_E75333R_SudaGidrobazy_NapravlyayuschayaKlapana_1953_400.png"
+      }
+    },
+    "401E83D9E4B08EC6496EC12B5A319827": {
+      "ResultFileName": "10_G-1378_SudaGidrobazy_Aisberg_YakorKoshka15_1960.tif",
+      "OriginalName": "10_Г-1378_СудаГидробазы_Айсберг_ЯкорьКошка15_1960.tif",
+      "PngFile": "10_G-1378_SudaGidrobazy_Aisberg_YakorKoshka15_1960.png",
+      "Tags": [
+        "Г",
+        "Суда Гидробазы",
+        "Айсберг",
+        "Якорь Кошка 15"
+      ],
+      "Year": "15-1960",
+      "Thumbnails": {
+        "400": "10_G-1378_SudaGidrobazy_Aisberg_YakorKoshka15_1960_400.png"
+      }
+    },
+    "03E4B245B7FF6C9E715E4F6001F31ECF": {
+      "ResultFileName": "100_SudaGidrobazy_KryshkaKarternayaSPatrubkom(2).tif",
+      "OriginalName": "100_СудаГидробазы_КрышкаКартернаяСПатрубком (2).tif",
+      "PngFile": "100_SudaGidrobazy_KryshkaKarternayaSPatrubkom(2).png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Крышка Картерная С Патрубком (   2)"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "100_SudaGidrobazy_KryshkaKarternayaSPatrubkom(2)_400.png"
+      }
+    },
+    "C6A126685909A542EE23D3808029D936": {
+      "ResultFileName": "101_SudaGidrobazy_PrintsipialnayaSkhemaVozdushnogoTruboprovoda.tif",
+      "OriginalName": "101_СудаГидробазы_ПринципиальнаяСхемаВоздушногоТрубопровода.tif",
+      "PngFile": "101_SudaGidrobazy_PrintsipialnayaSkhemaVozdushnogoTruboprovoda.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Принципиальная Схема Воздушного Трубопровода"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "101_SudaGidrobazy_PrintsipialnayaSkhemaVozdushnogoTruboprovoda_400.png"
+      }
+    },
+    "6881EAE76F6BBCCF2E1620961CAE6BFB": {
+      "ResultFileName": "102_SudaGidrobazy_UplotnitelnoeKoltsoKNasosuOkhlazhdVody_1962.tif",
+      "OriginalName": "102_СудаГидробазы_УплотнительноеКольцоКНасосуОхлаждВоды_1962.tif",
+      "PngFile": "102_SudaGidrobazy_UplotnitelnoeKoltsoKNasosuOkhlazhdVody_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Уплотнительное Кольцо К Насосу Охлажд Воды"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "102_SudaGidrobazy_UplotnitelnoeKoltsoKNasosuOkhlazhdVody_1962_400.png"
+      }
+    },
+    "606A2ABFFF8612890D22826911EDAA50": {
+      "ResultFileName": "103_SudaGidrobazy_KhomutStyazhnoi.tif",
+      "OriginalName": "103_СудаГидробазы_ХомутСтяжной.tif",
+      "PngFile": "103_SudaGidrobazy_KhomutStyazhnoi.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Хомут Стяжной"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "103_SudaGidrobazy_KhomutStyazhnoi_400.png"
+      }
+    },
+    "D06E2306AEADA7F53D7910FD109E4B58": {
+      "ResultFileName": "104_SudaGidrobazy_AdmiralteiskiiYakor_Cheka.tif",
+      "OriginalName": "104_СудаГидробазы_АдмиралтейскийЯкорь_Чека.tif",
+      "PngFile": "104_SudaGidrobazy_AdmiralteiskiiYakor_Cheka.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Адмиралтейский Якорь",
+        "Чека"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "104_SudaGidrobazy_AdmiralteiskiiYakor_Cheka_400.png"
+      }
+    },
+    "842884B7C944648A39C3ACEA034AE8B5": {
+      "ResultFileName": "11_G-1389_SudaGidrobazy_Peshnya_Detali_1962.tif",
+      "OriginalName": "11_Г-1389_СудаГидробазы_Пешня_Детали_1962.tif",
+      "PngFile": "11_G-1389_SudaGidrobazy_Peshnya_Detali_1962.png",
+      "Tags": [
+        "Г",
+        "Суда Гидробазы",
+        "Пешня",
+        "Детали"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "11_G-1389_SudaGidrobazy_Peshnya_Detali_1962_400.png"
+      }
+    },
+    "ECFCC15161209C23A10FBA860580A447": {
+      "ResultFileName": "12_K146_SudaGidrobazyMoryana_SchitokTopkiKambuznoiPlity_1963.tif",
+      "OriginalName": "12_К146_СудаГидробазыМоряна_ЩитокТопкиКамбузнойПлиты_1963.tif",
+      "PngFile": "12_K146_SudaGidrobazyMoryana_SchitokTopkiKambuznoiPlity_1963.png",
+      "Tags": [
+        "К 146",
+        "Суда Гидробазы Моряна",
+        "Щиток Топки Камбузной Плиты"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "12_K146_SudaGidrobazyMoryana_SchitokTopkiKambuznoiPlity_1963_400.png"
+      }
+    },
+    "97703D2EFED849D001205F4A57CF536F": {
+      "ResultFileName": "13_K-1369_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_1961.tif",
+      "OriginalName": "13_К-1369_СудаГидробазы_Моряна_РефрижираторнаяУстановка_1961.tif",
+      "PngFile": "13_K-1369_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_1961.png",
+      "Tags": [
+        "К",
+        "Суда Гидробазы",
+        "Моряна",
+        "Рефрижираторная Установка"
+      ],
+      "Year": "1961",
+      "Thumbnails": {
+        "400": "13_K-1369_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_1961_400.png"
+      }
+    },
+    "6D4808753DD11AA12793D8F49565D1F7": {
+      "ResultFileName": "14_K-1370_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_IzolyatsiyaKamery.tif",
+      "OriginalName": "14_К-1370_СудаГидробазы_Моряна_РефрижираторнаяУстановка_ИзоляцияКамеры.tif",
+      "PngFile": "14_K-1370_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_IzolyatsiyaKamery.png",
+      "Tags": [
+        "К",
+        "Суда Гидробазы",
+        "Моряна",
+        "Рефрижираторная Установка",
+        "Изоляция Камеры"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "14_K-1370_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_IzolyatsiyaKamery_400.png"
+      }
+    },
+    "4EB891094CD4AB232F02E336D034FE86": {
+      "ResultFileName": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961.tif",
+      "OriginalName": "15_К-1372_СудаГидробазы_Моряна_ПереборочныйСтакан_Ду-20_1961.tif",
+      "PngFile": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961.png",
+      "Tags": [
+        "К",
+        "Суда Гидробазы",
+        "Моряна",
+        "Переборочный Стакан",
+        "Ду"
+      ],
+      "Year": "20-1961",
+      "Thumbnails": {
+        "400": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961_400.png"
+      }
+    },
+    "A709309F3D7D37456E300C16CC8347C7": {
+      "ResultFileName": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961.tif",
+      "OriginalName": "16_К-1373_СудаГидробазы_Моряна_СточныйШпигат_1961.tif",
+      "PngFile": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961.png",
+      "Tags": [
+        "К",
+        "Суда Гидробазы",
+        "Моряна",
+        "Сточный Шпигат"
+      ],
+      "Year": "1961",
+      "Thumbnails": {
+        "400": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961_400.png"
+      }
+    },
+    "4A473AA852A46D891D0D5479AD891384": {
+      "ResultFileName": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961.tif",
+      "OriginalName": "17_К-1374_СудаГидробазы_Моряна_РефрижираторнаяУстановка_Детали_1961.tif",
+      "PngFile": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961.png",
+      "Tags": [
+        "К",
+        "Суда Гидробазы",
+        "Моряна",
+        "Рефрижираторная Установка",
+        "Детали"
+      ],
+      "Year": "1961",
+      "Thumbnails": {
+        "400": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961_400.png"
+      }
+    },
+    "C805235D5DB0557FEC1235FF5D52F462": {
+      "ResultFileName": "18_K-1800-02_SudaGidrobazy_Vtulka_Stopor.tif",
+      "OriginalName": "18_К-1800-02_СудаГидробазы_Втулка_Стопор.tif",
+      "PngFile": "18_K-1800-02_SudaGidrobazy_Vtulka_Stopor.png",
+      "Tags": [
+        "К",
+        "Суда Гидробазы",
+        "Втулка",
+        "Стопор"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "18_K-1800-02_SudaGidrobazy_Vtulka_Stopor_400.png"
+      }
+    },
+    "E7762C9C0FC60B18971A735D5A1FB9DE": {
+      "ResultFileName": "19_M-1398_SudaGidrobazy_Shtorm_KrylatkaNasosaZabortnoiVody_1960.tif",
+      "OriginalName": "19_М-1398_СудаГидробазы_Шторм_КрылаткаНасосаЗабортнойВоды_1960.tif",
+      "PngFile": "19_M-1398_SudaGidrobazy_Shtorm_KrylatkaNasosaZabortnoiVody_1960.png",
+      "Tags": [
+        "М",
+        "Суда Гидробазы",
+        "Шторм",
+        "Крылатка Насоса Забортной Воды"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "19_M-1398_SudaGidrobazy_Shtorm_KrylatkaNasosaZabortnoiVody_1960_400.png"
+      }
+    },
+    "A376952AA50B73F0E680695ECCEF456F": {
+      "ResultFileName": "20_M-1399_SudaGidrobazy_Rasshiritelnyibachek.tif",
+      "OriginalName": "20_М-1399_СудаГидробазы_Расширительный бачек.tif",
+      "PngFile": "20_M-1399_SudaGidrobazy_Rasshiritelnyibachek.png",
+      "Tags": [
+        "М",
+        "Суда Гидробазы",
+        "Расширительный бачек"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "20_M-1399_SudaGidrobazy_Rasshiritelnyibachek_400.png"
+      }
+    },
+    "9A365BCBDA06D1F1A7BECDB9469BD49B": {
+      "ResultFileName": "21_M-1441_SudaGidrobazy_Vikhr_SoploVytyazhnoiTruby_1961.tif",
+      "OriginalName": "21_М-1441_СудаГидробазы_Вихрь_СоплоВытяжнойТрубы_1961.tif",
+      "PngFile": "21_M-1441_SudaGidrobazy_Vikhr_SoploVytyazhnoiTruby_1961.png",
+      "Tags": [
+        "М",
+        "Суда Гидробазы",
+        "Вихрь",
+        "Сопло Вытяжной Трубы"
+      ],
+      "Year": "1961",
+      "Thumbnails": {
+        "400": "21_M-1441_SudaGidrobazy_Vikhr_SoploVytyazhnoiTruby_1961_400.png"
+      }
+    },
+    "DF50B86EB78233C6D64D37DC4DB455D5": {
+      "ResultFileName": "22_M-1447_SudaGidrobazy_Sekstan_StupitsaVinta_1962.tif",
+      "OriginalName": "22_М-1447_СудаГидробазы_Секстан_СтупицаВинта_1962.tif",
+      "PngFile": "22_M-1447_SudaGidrobazy_Sekstan_StupitsaVinta_1962.png",
+      "Tags": [
+        "М",
+        "Суда Гидробазы",
+        "Секстан",
+        "Ступица Винта"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "22_M-1447_SudaGidrobazy_Sekstan_StupitsaVinta_1962_400.png"
+      }
+    },
+    "F432238DA5E34D1DFF775D8027E117C7": {
+      "ResultFileName": "23_M-1448-1_SudaGidrobazy_GrebnoiVal_1970.tif",
+      "OriginalName": "23_М-1448-1_СудаГидробазы_ГребнойВал_1970.tif",
+      "PngFile": "23_M-1448-1_SudaGidrobazy_GrebnoiVal_1970.png",
+      "Tags": [
+        "М",
+        "Суда Гидробазы",
+        "Гребной Вал"
+      ],
+      "Year": "1970",
+      "Thumbnails": {
+        "400": "23_M-1448-1_SudaGidrobazy_GrebnoiVal_1970_400.png"
+      }
+    },
+    "BC6410E6E18111F15E570690867B73C5": {
+      "ResultFileName": "24_M-1802-09_SudaGidrobazy_Sekstan_Bachek.tif",
+      "OriginalName": "24_М-1802-09_СудаГидробазы_Секстан_Бачек.tif",
+      "PngFile": "24_M-1802-09_SudaGidrobazy_Sekstan_Bachek.png",
+      "Tags": [
+        "М",
+        "Суда Гидробазы",
+        "Секстан",
+        "Бачек"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "24_M-1802-09_SudaGidrobazy_Sekstan_Bachek_400.png"
+      }
+    },
+    "01A05F0CF2AA5BD42978B31D48184F03": {
+      "ResultFileName": "25_SCh-02-01_SudaGidrobazy_KambuznayaPlita_Detali_1963.tif",
+      "OriginalName": "25_СЧ-02-01_СудаГидробазы_КамбузнаяПлита_Детали_1963.tif",
+      "PngFile": "25_SCh-02-01_SudaGidrobazy_KambuznayaPlita_Detali_1963.png",
+      "Tags": [
+        "С Ч",
+        "Суда Гидробазы",
+        "Камбузная Плита",
+        "Детали"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "25_SCh-02-01_SudaGidrobazy_KambuznayaPlita_Detali_1963_400.png"
+      }
+    },
+    "B74C36556B12D704E2165DEC135A500F": {
+      "ResultFileName": "26_SudaGidrobazy_Aisberg_ChertezhNeAtributirovan_1962.tif",
+      "OriginalName": "26_СудаГидробазы_Айсберг_ЧертежНеАтрибутирован_1962.tif",
+      "PngFile": "26_SudaGidrobazy_Aisberg_ChertezhNeAtributirovan_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Айсберг",
+        "Чертеж Не Атрибутирован"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "26_SudaGidrobazy_Aisberg_ChertezhNeAtributirovan_1962_400.png"
+      }
+    },
+    "AA5049123EDD3CF2724EEBAEFB79A729": {
+      "ResultFileName": "27_SudaGidrobazy_Aisberg_ZatemniteliNaIllyuminatoryNadstroiki_1962.tif",
+      "OriginalName": "27_СудаГидробазы_Айсберг_ЗатемнителиНаИллюминаторыНадстройки_1962.tif",
+      "PngFile": "27_SudaGidrobazy_Aisberg_ZatemniteliNaIllyuminatoryNadstroiki_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Айсберг",
+        "Затемнители На Иллюминаторы Надстройки"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "27_SudaGidrobazy_Aisberg_ZatemniteliNaIllyuminatoryNadstroiki_1962_400.png"
+      }
+    },
+    "BD644E35E158B69F195ED4600F177E0E": {
+      "ResultFileName": "28_SudaGidrobazy_Aisberg_PloschadkaDlyaAvariinogoFonarya_1962.tif",
+      "OriginalName": "28_СудаГидробазы_Айсберг_ПлощадкаДляАварийногоФонаря_1962.tif",
+      "PngFile": "28_SudaGidrobazy_Aisberg_PloschadkaDlyaAvariinogoFonarya_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Айсберг",
+        "Площадка Для Аварийного Фонаря"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "28_SudaGidrobazy_Aisberg_PloschadkaDlyaAvariinogoFonarya_1962_400.png"
+      }
+    },
+    "9E80DF759C88B11F8D8F28C1F99B48DC": {
+      "ResultFileName": "29_SudaGidrobazy_Andromeda_ReduktorPromyslovyi_Polumufta_1966.tif",
+      "OriginalName": "29_СудаГидробазы_Андромеда_РедукторПромысловый_Полумуфта_1966.tif",
+      "PngFile": "29_SudaGidrobazy_Andromeda_ReduktorPromyslovyi_Polumufta_1966.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Андромеда",
+        "Редуктор Промысловый",
+        "Полумуфта"
+      ],
+      "Year": "1966",
+      "Thumbnails": {
+        "400": "29_SudaGidrobazy_Andromeda_ReduktorPromyslovyi_Polumufta_1966_400.png"
+      }
+    },
+    "B83284B929EF0C0C4CC506B446F32EBD": {
+      "ResultFileName": "30_SudaGidrobazy_Vikhr_BakDlyaKipyacheniyaBelya.tif",
+      "OriginalName": "30_СудаГидробазы_Вихрь_БакДляКипяченияБелья.tif",
+      "PngFile": "30_SudaGidrobazy_Vikhr_BakDlyaKipyacheniyaBelya.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Вихрь",
+        "Бак Для Кипячения Белья"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "30_SudaGidrobazy_Vikhr_BakDlyaKipyacheniyaBelya_400.png"
+      }
+    },
+    "75FF59009C67BE847077F530D570BB47": {
+      "ResultFileName": "31_SudaGidrobazy_KryshkaKarteraGlavnogoDvigatelya_1962.tif",
+      "OriginalName": "31_СудаГидробазы_КрышкаКартераГлавногоДвигателя_1962.tif",
+      "PngFile": "31_SudaGidrobazy_KryshkaKarteraGlavnogoDvigatelya_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Крышка Картера Главного Двигателя"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "31_SudaGidrobazy_KryshkaKarteraGlavnogoDvigatelya_1962_400.png"
+      }
+    },
+    "43458953CAADCFC809F46BB63BD97053": {
+      "ResultFileName": "32_SudaGidrobazy_Maslootdelitel.tif",
+      "OriginalName": "32_СудаГидробазы_Маслоотделитель.tif",
+      "PngFile": "32_SudaGidrobazy_Maslootdelitel.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Маслоотделитель"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "32_SudaGidrobazy_Maslootdelitel_400.png"
+      }
+    },
+    "96D5226D76E14AE4CB2B99DB601008DC": {
+      "ResultFileName": "33_SudaGidrobazy_Vikhr_PorshnevoeKoltsoPuskovogoKlapana_1962.tif",
+      "OriginalName": "33_СудаГидробазы_Вихрь_ПоршневоеКольцоПусковогоКлапана_1962.tif",
+      "PngFile": "33_SudaGidrobazy_Vikhr_PorshnevoeKoltsoPuskovogoKlapana_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Вихрь",
+        "Поршневое Кольцо Пускового Клапана"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "33_SudaGidrobazy_Vikhr_PorshnevoeKoltsoPuskovogoKlapana_1962_400.png"
+      }
+    },
+    "96E84839FCDE77394E346412245637F3": {
+      "ResultFileName": "34_SudaGidrobazy_Vikhr_PredokhranitelnyiKlapan_1962.tif",
+      "OriginalName": "34_СудаГидробазы_Вихрь_ПредохранительныйКлапан_1962.tif",
+      "PngFile": "34_SudaGidrobazy_Vikhr_PredokhranitelnyiKlapan_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Вихрь",
+        "Предохранительный Клапан"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "34_SudaGidrobazy_Vikhr_PredokhranitelnyiKlapan_1962_400.png"
+      }
+    },
+    "251DC8742E6B8EDEBBCA0295F08B5B4D": {
+      "ResultFileName": "35_SudaGidrobazy_Volna_BoltyDlyaKrepleniyaIllyuminatora.tif",
+      "OriginalName": "35_СудаГидробазы_Волна_БолтыДляКрепленияИллюминатора.tif",
+      "PngFile": "35_SudaGidrobazy_Volna_BoltyDlyaKrepleniyaIllyuminatora.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Болты Для Крепления Иллюминатора"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "35_SudaGidrobazy_Volna_BoltyDlyaKrepleniyaIllyuminatora_400.png"
+      }
+    },
+    "8DB41573DC931149C4B7EE1C233336CC": {
+      "ResultFileName": "36_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaGrotMachte_1960.tif",
+      "OriginalName": "36_СудаГидробазы_Волна_БугелиДляКрепленияСтеньгиНаГротМачте_1960.tif",
+      "PngFile": "36_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaGrotMachte_1960.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Бугели Для Крепления Стеньги На Грот Мачте"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "36_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaGrotMachte_1960_400.png"
+      }
+    },
+    "D6747C5E793E237DCFC31F98D49C1C4E": {
+      "ResultFileName": "37_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaFokMachte_1960.tif",
+      "OriginalName": "37_СудаГидробазы_Волна_БугелиДляКрепленияСтеньгиНаФокМачте_1960.tif",
+      "PngFile": "37_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaFokMachte_1960.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Бугели Для Крепления Стеньги На Фок Мачте"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "37_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaFokMachte_1960_400.png"
+      }
+    },
+    "C4FCA85FBFD2FBA81D92A133584FF95D": {
+      "ResultFileName": "38_SudaGidrobazy_Volna_KipovayaPlankaKPoluklyuzamKozyrka_1959.tif",
+      "OriginalName": "38_СудаГидробазы_Волна_КиповаяПланкаКПолуклюзамКозырька_1959.tif",
+      "PngFile": "38_SudaGidrobazy_Volna_KipovayaPlankaKPoluklyuzamKozyrka_1959.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Киповая Планка К Полуклюзам Козырька"
+      ],
+      "Year": "1959",
+      "Thumbnails": {
+        "400": "38_SudaGidrobazy_Volna_KipovayaPlankaKPoluklyuzamKozyrka_1959_400.png"
+      }
+    },
+    "D585A5609B6A0BDB301ED21C0A36AD9C": {
+      "ResultFileName": "39_SudaGidrobazy_Volna_KoltsoKNasosuOkhlazhdeniya.tif",
+      "OriginalName": "39_СудаГидробазы_Волна_КольцоКНасосуОхлаждения.tif",
+      "PngFile": "39_SudaGidrobazy_Volna_KoltsoKNasosuOkhlazhdeniya.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Кольцо К Насосу Охлаждения"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "39_SudaGidrobazy_Volna_KoltsoKNasosuOkhlazhdeniya_400.png"
+      }
+    },
+    "86119563A84FEBD138BDAD2DCD598305": {
+      "ResultFileName": "40_SudaGidrobazy_Volna_KorpusMaslyanogoFiltra_1962.tif",
+      "OriginalName": "40_СудаГидробазы_Волна_КорпусМасляногоФильтра_1962.tif",
+      "PngFile": "40_SudaGidrobazy_Volna_KorpusMaslyanogoFiltra_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Корпус Масляного Фильтра"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "40_SudaGidrobazy_Volna_KorpusMaslyanogoFiltra_1962_400.png"
+      }
+    },
+    "B683091A6C9C8338135AB573FEC99CF5": {
+      "ResultFileName": "41_SudaGidrobazy_Volna_KreplenieShtangiMeteostantsii_1960.tif",
+      "OriginalName": "41_СудаГидробазы_Волна_КреплениеШтангиМетеостанции_1960.tif",
+      "PngFile": "41_SudaGidrobazy_Volna_KreplenieShtangiMeteostantsii_1960.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Крепление Штанги Метеостанции"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "41_SudaGidrobazy_Volna_KreplenieShtangiMeteostantsii_1960_400.png"
+      }
+    },
+    "F9BCB62063E579391F252433E9CDF30D": {
+      "ResultFileName": "42_SudaGidrobazy_Volna_KryshkaKorpusaMaslyanogoFiltra_1962.tif",
+      "OriginalName": "42_СудаГидробазы_Волна_КрышкаКорпусаМасляногоФильтра_1962.tif",
+      "PngFile": "42_SudaGidrobazy_Volna_KryshkaKorpusaMaslyanogoFiltra_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Крышка Корпуса Масляного Фильтра"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "42_SudaGidrobazy_Volna_KryshkaKorpusaMaslyanogoFiltra_1962_400.png"
+      }
+    },
+    "CF841935352191A18867C47C7068055B": {
+      "ResultFileName": "43_SudaGidrobazy_Volna_NazhimnoiSukharKlapana_1962.tif",
+      "OriginalName": "43_СудаГидробазы_Волна_НажимнойСухарьКлапана_1962.tif",
+      "PngFile": "43_SudaGidrobazy_Volna_NazhimnoiSukharKlapana_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Нажимной Сухарь Клапана"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "43_SudaGidrobazy_Volna_NazhimnoiSukharKlapana_1962_400.png"
+      }
+    },
+    "2B88CC83D6DA7052F91798B0B82B8597": {
+      "ResultFileName": "44_SudaGidrobazy_Volna_NapravlyayuschayaVtulkaKlapana_1962.tif",
+      "OriginalName": "44_СудаГидробазы_Волна_НаправляющаяВтулкаКлапана_1962.tif",
+      "PngFile": "44_SudaGidrobazy_Volna_NapravlyayuschayaVtulkaKlapana_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Направляющая Втулка Клапана"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "44_SudaGidrobazy_Volna_NapravlyayuschayaVtulkaKlapana_1962_400.png"
+      }
+    },
+    "D185E42CD3ED802419F875545A460938": {
+      "ResultFileName": "45_SudaGidrobazy_Volna_StengaDlyaFokIGrotMachty_1960.tif",
+      "OriginalName": "45_СудаГидробазы_Волна_СтеньгаДляФокИГротМачты_1960.tif",
+      "PngFile": "45_SudaGidrobazy_Volna_StengaDlyaFokIGrotMachty_1960.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Стеньга Для Фок И Грот Мачты"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "45_SudaGidrobazy_Volna_StengaDlyaFokIGrotMachty_1960_400.png"
+      }
+    },
+    "72AF22FDA7648BD152CBD73B2026C838": {
+      "ResultFileName": "46_SudaGidrobazy_UstanovkaVentilyatoraVApparatnoi_1960.tif",
+      "OriginalName": "46_СудаГидробазы_УстановкаВентилятораВАппаратной_1960.tif",
+      "PngFile": "46_SudaGidrobazy_UstanovkaVentilyatoraVApparatnoi_1960.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Установка Вентилятора В Аппаратной"
+      ],
+      "Year": "1960",
+      "Thumbnails": {
+        "400": "46_SudaGidrobazy_UstanovkaVentilyatoraVApparatnoi_1960_400.png"
+      }
+    },
+    "FB505D1AF659B274EE3226D09DC00E80": {
+      "ResultFileName": "47_SudaGidrobazy_Volna_FundamentnayaPlitaMaslyanogoFiltra_1962.tif",
+      "OriginalName": "47_СудаГидробазы_Волна_ФундаментнаяПлитаМасляногоФильтра_1962.tif",
+      "PngFile": "47_SudaGidrobazy_Volna_FundamentnayaPlitaMaslyanogoFiltra_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Фундаментная Плита Масляного Фильтра"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "47_SudaGidrobazy_Volna_FundamentnayaPlitaMaslyanogoFiltra_1962_400.png"
+      }
+    },
+    "AC845423F9D5F79DE5F3493F62533D77": {
+      "ResultFileName": "48_SudaGidrobazy_Volna_KorpusVstavkiFiltra_1962.tif",
+      "OriginalName": "48_СудаГидробазы_Волна_КорпусВставкиФильтра_1962.tif",
+      "PngFile": "48_SudaGidrobazy_Volna_KorpusVstavkiFiltra_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Волна",
+        "Корпус Вставки Фильтра"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "48_SudaGidrobazy_Volna_KorpusVstavkiFiltra_1962_400.png"
+      }
+    },
+    "0596B2815C5F5B959AC72E076835483A": {
+      "ResultFileName": "49_SudaGidrobazy_Inei_Buksovka_1964.tif",
+      "OriginalName": "49_СудаГидробазы_Иней_Буксовка_1964.tif",
+      "PngFile": "49_SudaGidrobazy_Inei_Buksovka_1964.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Буксовка"
+      ],
+      "Year": "1964",
+      "Thumbnails": {
+        "400": "49_SudaGidrobazy_Inei_Buksovka_1964_400.png"
+      }
+    },
+    "E2FC0A72CE1243ECFBC4901EF2DEA07D": {
+      "ResultFileName": "50_SudaGidrobazy_Inei_VyushkaDlyaRastitelnogoTrosa.tif",
+      "OriginalName": "50_СудаГидробазы_Иней_ВьюшкаДляРастительногоТроса.tif",
+      "PngFile": "50_SudaGidrobazy_Inei_VyushkaDlyaRastitelnogoTrosa.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Вьюшка Для Растительного Троса"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "50_SudaGidrobazy_Inei_VyushkaDlyaRastitelnogoTrosa_400.png"
+      }
+    },
+    "46F0DF3C095CD5A14F1062CD090D16E9": {
+      "ResultFileName": "51_SudaGidrobazy_Inei_GrebnoiValRabochegoKatera_VnutrenniiValik.tif",
+      "OriginalName": "51_СудаГидробазы_Иней_ГребнойВалРабочегоКатера_ВнутреннийВалик.tif",
+      "PngFile": "51_SudaGidrobazy_Inei_GrebnoiValRabochegoKatera_VnutrenniiValik.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Гребной Вал Рабочего Катера",
+        "Внутренний Валик"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "51_SudaGidrobazy_Inei_GrebnoiValRabochegoKatera_VnutrenniiValik_400.png"
+      }
+    },
+    "68C297136C2F3E91B93E7793599F8CC2": {
+      "ResultFileName": "52_SudaGidrobazy_Inei_Zatemniteli.tif",
+      "OriginalName": "52_СудаГидробазы_Иней_Затемнители.tif",
+      "PngFile": "52_SudaGidrobazy_Inei_Zatemniteli.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Затемнители"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "52_SudaGidrobazy_Inei_Zatemniteli_400.png"
+      }
+    },
+    "AC2D6BA1DBD7DE9057764B25E20A41D4": {
+      "ResultFileName": "53_SudaGidrobazy_Inei_LeernyeStoiki.tif",
+      "OriginalName": "53_СудаГидробазы_Иней_ЛеерныеСтойки.tif",
+      "PngFile": "53_SudaGidrobazy_Inei_LeernyeStoiki.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Леерные Стойки"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "53_SudaGidrobazy_Inei_LeernyeStoiki_400.png"
+      }
+    },
+    "439F4369A51A9D99A30B662B0BCADA4C": {
+      "ResultFileName": "54_SudaGidrobazy_Inei_OtsinkovannyiYaschikDlyaKart.tif",
+      "OriginalName": "54_СудаГидробазы_Иней_ОцинкованныйЯщикДляКарт.tif",
+      "PngFile": "54_SudaGidrobazy_Inei_OtsinkovannyiYaschikDlyaKart.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Оцинкованный Ящик Для Карт"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "54_SudaGidrobazy_Inei_OtsinkovannyiYaschikDlyaKart_400.png"
+      }
+    },
+    "B4A927FBE909619B001D6F8C6AE987DE": {
+      "ResultFileName": "55_SudaGidrobazy_Inei_PeroRulyaDlyaNasadokSpasatelnykhKaterov.tif",
+      "OriginalName": "55_СудаГидробазы_Иней_ПероРуляДляНасадокСпасательныхКатеров.tif",
+      "PngFile": "55_SudaGidrobazy_Inei_PeroRulyaDlyaNasadokSpasatelnykhKaterov.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Перо Руля Для Насадок Спасательных Катеров"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "55_SudaGidrobazy_Inei_PeroRulyaDlyaNasadokSpasatelnykhKaterov_400.png"
+      }
+    },
+    "02DCC8B9270EAE6A62AB0E46BDF17570": {
+      "ResultFileName": "56_SudaGidrobazy_Inei_PodstavkaDlyaChainika.tif",
+      "OriginalName": "56_СудаГидробазы_Иней_ПодставкаДляЧайника.tif",
+      "PngFile": "56_SudaGidrobazy_Inei_PodstavkaDlyaChainika.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Подставка Для Чайника"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "56_SudaGidrobazy_Inei_PodstavkaDlyaChainika_400.png"
+      }
+    },
+    "9041192AEE23191C7FF276596B5156CF": {
+      "ResultFileName": "57_SudaGidrobazy_Inei_ProtivokrysinyeSchitki.tif",
+      "OriginalName": "57_СудаГидробазы_Иней_ПротивокрысиныеЩитки.tif",
+      "PngFile": "57_SudaGidrobazy_Inei_ProtivokrysinyeSchitki.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Противокрысиные Щитки"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "57_SudaGidrobazy_Inei_ProtivokrysinyeSchitki_400.png"
+      }
+    },
+    "3F1F390CAB2D75E91D5A64C13BF91AE3": {
+      "ResultFileName": "58_SudaGidrobazy_Inei_RelingiDlyaOgrazhdeniyaPromernykhLebedok.tif",
+      "OriginalName": "58_СудаГидробазы_Иней_РелингиДляОгражденияПромерныхЛебедок.tif",
+      "PngFile": "58_SudaGidrobazy_Inei_RelingiDlyaOgrazhdeniyaPromernykhLebedok.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Релинги Для Ограждения Промерных Лебедок"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "58_SudaGidrobazy_Inei_RelingiDlyaOgrazhdeniyaPromernykhLebedok_400.png"
+      }
+    },
+    "1BF7545B4413A748F61B128057BD8C17": {
+      "ResultFileName": "59_SudaGidrobazy_Inei_ChekiDlyaKrepleniyaStrel.tif",
+      "OriginalName": "59_СудаГидробазы_Иней_ЧекиДляКрепленияСтрел.tif",
+      "PngFile": "59_SudaGidrobazy_Inei_ChekiDlyaKrepleniyaStrel.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Чеки Для Крепления Стрел"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "59_SudaGidrobazy_Inei_ChekiDlyaKrepleniyaStrel_400.png"
+      }
+    },
+    "C30D6AFCC2BDD09D0C393FD9F49E328E": {
+      "ResultFileName": "60_SudaGidrobazy_Inei_ShpilkiSBarashkami.tif",
+      "OriginalName": "60_СудаГидробазы_Иней_ШпилькиСБарашками.tif",
+      "PngFile": "60_SudaGidrobazy_Inei_ShpilkiSBarashkami.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Шпильки С Барашками"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "60_SudaGidrobazy_Inei_ShpilkiSBarashkami_400.png"
+      }
+    },
+    "51FDE7A00FFC1D0F37EFD1C9029BA51F": {
+      "ResultFileName": "61_SudaGidrobazy_Inei_YaschikDlyaKartSZamkom_1965.tif",
+      "OriginalName": "61_СудаГидробазы_Иней_ЯщикДляКартСЗамком_1965.tif",
+      "PngFile": "61_SudaGidrobazy_Inei_YaschikDlyaKartSZamkom_1965.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Иней",
+        "Ящик Для Карт С Замком"
+      ],
+      "Year": "1965",
+      "Thumbnails": {
+        "400": "61_SudaGidrobazy_Inei_YaschikDlyaKartSZamkom_1965_400.png"
+      }
+    },
+    "376B225121199F569C64D38C4AB19BA3": {
+      "ResultFileName": "62_SudaGidrobazy_Maina_KlyuchZvezdochka.tif",
+      "OriginalName": "62_СудаГидробазы_Майна_КлючЗвездочка.tif",
+      "PngFile": "62_SudaGidrobazy_Maina_KlyuchZvezdochka.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Майна",
+        "Ключ Звездочка"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "62_SudaGidrobazy_Maina_KlyuchZvezdochka_400.png"
+      }
+    },
+    "B3F372EB8208A29652260CAF85B0C99A": {
+      "ResultFileName": "63_SudaGidrobazy_Maina_OgranichitelRuchkiVklyucheniyaKulachkovoiMufty.tif",
+      "OriginalName": "63_СудаГидробазы_Майна_ОграничительРучкиВключенияКулачковойМуфты.tif",
+      "PngFile": "63_SudaGidrobazy_Maina_OgranichitelRuchkiVklyucheniyaKulachkovoiMufty.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Майна",
+        "Ограничитель Ручки Включения Кулачковой Муфты"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "63_SudaGidrobazy_Maina_OgranichitelRuchkiVklyucheniyaKulachkovoiMufty_400.png"
+      }
+    },
+    "2B102BD623EF9CC140259DCAEFF57F52": {
+      "ResultFileName": "64_SudaGidrobazy_Mayak_Kronshtein.tif",
+      "OriginalName": "64_СудаГидробазы_Маяк_Кронштейн.tif",
+      "PngFile": "64_SudaGidrobazy_Mayak_Kronshtein.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Маяк",
+        "Кронштейн"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "64_SudaGidrobazy_Mayak_Kronshtein_400.png"
+      }
+    },
+    "114E0E313D67FA9E2912D6A9830AE834": {
+      "ResultFileName": "65_SudaGidrobazy_Maslootdelitel_1959.tif",
+      "OriginalName": "65_СудаГидробазы_Маслоотделитель_1959.tif",
+      "PngFile": "65_SudaGidrobazy_Maslootdelitel_1959.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Маслоотделитель"
+      ],
+      "Year": "1959",
+      "Thumbnails": {
+        "400": "65_SudaGidrobazy_Maslootdelitel_1959_400.png"
+      }
+    },
+    "A7D0D424652C4F641E4C8CFD169F35F6": {
+      "ResultFileName": "66_SudaGidrobazy_Mayak_Maslootdelitel_Kryshka_1959.tif",
+      "OriginalName": "66_СудаГидробазы_Маяк_Маслоотделитель_Крышка_1959.tif",
+      "PngFile": "66_SudaGidrobazy_Mayak_Maslootdelitel_Kryshka_1959.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Маяк",
+        "Маслоотделитель",
+        "Крышка"
+      ],
+      "Year": "1959",
+      "Thumbnails": {
+        "400": "66_SudaGidrobazy_Mayak_Maslootdelitel_Kryshka_1959_400.png"
+      }
+    },
+    "4AF0984E7BC02BC7822EB18B724603CA": {
+      "ResultFileName": "67_SudaGidrobazy_Mayak_ChertezhNeatributirovan.tif",
+      "OriginalName": "67_СудаГидробазы_Маяк_ЧертежНеатрибутирован.tif",
+      "PngFile": "67_SudaGidrobazy_Mayak_ChertezhNeatributirovan.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Маяк",
+        "Чертеж Неатрибутирован"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "67_SudaGidrobazy_Mayak_ChertezhNeatributirovan_400.png"
+      }
+    },
+    "40F351EEFE845E1B19FAEAD5C7D761B6": {
+      "ResultFileName": "68_SudaGidrobazy_Moryana_BoltikForsunkiVspomogatelnogoDvigatelya_1962.tif",
+      "OriginalName": "68_СудаГидробазы_Моряна_БолтикФорсункиВспомогательногоДвигателя_1962.tif",
+      "PngFile": "68_SudaGidrobazy_Moryana_BoltikForsunkiVspomogatelnogoDvigatelya_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Болтик Форсунки Вспомогательного Двигателя"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "68_SudaGidrobazy_Moryana_BoltikForsunkiVspomogatelnogoDvigatelya_1962_400.png"
+      }
+    },
+    "078550EA87A5D4278A2D1425A97D2D72": {
+      "ResultFileName": "69_SudaGidrobazy_Moryana_DvigatelVikstrem_BoltShatunnyi_1962.tif",
+      "OriginalName": "69_СудаГидробазы_Моряна_ДвигательВикстрем_БолтШатунный_1962.tif",
+      "PngFile": "69_SudaGidrobazy_Moryana_DvigatelVikstrem_BoltShatunnyi_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Двигатель Викстрем",
+        "Болт Шатунный"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "69_SudaGidrobazy_Moryana_DvigatelVikstrem_BoltShatunnyi_1962_400.png"
+      }
+    },
+    "EA31AD1C206B2E45796D730A2A560DCE": {
+      "ResultFileName": "70_SudaGidrobazy_Moryana_DvigatelVikstrem_GaikaShatunnogoBolta_1962.tif",
+      "OriginalName": "70_СудаГидробазы_Моряна_ДвигательВикстрем_ГайкаШатунногоБолта_1962.tif",
+      "PngFile": "70_SudaGidrobazy_Moryana_DvigatelVikstrem_GaikaShatunnogoBolta_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Двигатель Викстрем",
+        "Гайка Шатунного Болта"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "70_SudaGidrobazy_Moryana_DvigatelVikstrem_GaikaShatunnogoBolta_1962_400.png"
+      }
+    },
+    "B77C5C24EBB1F24077745E97259CB23E": {
+      "ResultFileName": "71_SudaGidrobazy_Moryana_ZatemnitelNaSvetilnikiPalubnogoOsvescheniya_1962.tif",
+      "OriginalName": "71_СудаГидробазы_Моряна_ЗатемнительНаСветильникиПалубногоОсвещения_1962.tif",
+      "PngFile": "71_SudaGidrobazy_Moryana_ZatemnitelNaSvetilnikiPalubnogoOsvescheniya_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Затемнитель На Светильники Палубного Освещения"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "71_SudaGidrobazy_Moryana_ZatemnitelNaSvetilnikiPalubnogoOsvescheniya_1962_400.png"
+      }
+    },
+    "F8589E6ACE05B8A6AAF33856B8204769": {
+      "ResultFileName": "72_SudaGidrobazy_Moryana_KolpachekShtokaKlapanaVspomogatelnogoDvigatelya_1962.tif",
+      "OriginalName": "72_СудаГидробазы_Моряна_КолпачекШтокаКлапанаВспомогательногоДвигателя_1962.tif",
+      "PngFile": "72_SudaGidrobazy_Moryana_KolpachekShtokaKlapanaVspomogatelnogoDvigatelya_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Колпачек Штока Клапана Вспомогательного Двигателя"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "72_SudaGidrobazy_Moryana_KolpachekShtokaKlapanaVspomogatelnogoDvigatelya_1962_400.png"
+      }
+    },
+    "1CB0C7D5944CDE1430850405A41130D8": {
+      "ResultFileName": "73_SudaGidrobazy_Moryana_KronshteinDlyaMekhanicheskogoSchetchikaLaga_1962.tif",
+      "OriginalName": "73_СудаГидробазы_Моряна_КронштейнДляМеханическогоСчетчикаЛага_1962.tif",
+      "PngFile": "73_SudaGidrobazy_Moryana_KronshteinDlyaMekhanicheskogoSchetchikaLaga_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Кронштейн Для Механического Счетчика Лага"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "73_SudaGidrobazy_Moryana_KronshteinDlyaMekhanicheskogoSchetchikaLaga_1962_400.png"
+      }
+    },
+    "514942032D7585CDAF9EF42370BF51D4": {
+      "ResultFileName": "74_SudaGidrobazy_Moryana_KryshkaVozdushnogoKolpakaNasosa_1962.tif",
+      "OriginalName": "74_СудаГидробазы_Моряна_КрышкаВоздушногоКолпакаНасоса_1962.tif",
+      "PngFile": "74_SudaGidrobazy_Moryana_KryshkaVozdushnogoKolpakaNasosa_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Крышка Воздушного Колпака Насоса"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "74_SudaGidrobazy_Moryana_KryshkaVozdushnogoKolpakaNasosa_1962_400.png"
+      }
+    },
+    "FC8F7D6CB8B7725B96E431420BA9C5C6": {
+      "ResultFileName": "75_SudaGidrobazy_Moryana_MaslyanyiUravnitelnyiBakGlavnogoDvigatelya_1963.tif",
+      "OriginalName": "75_СудаГидробазы_Моряна_МасляныйУравнительныйБакГлавногоДвигателя_1963.tif",
+      "PngFile": "75_SudaGidrobazy_Moryana_MaslyanyiUravnitelnyiBakGlavnogoDvigatelya_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Масляный Уравнительный Бак Главного Двигателя"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "75_SudaGidrobazy_Moryana_MaslyanyiUravnitelnyiBakGlavnogoDvigatelya_1963_400.png"
+      }
+    },
+    "DD4388E2830A2265E48B47E61D31C77F": {
+      "ResultFileName": "76_SudaGidrobazy_Moryana_DvigatelBukauVolf_NapravlyayuschayaKlapana_1962.tif",
+      "OriginalName": "76_СудаГидробазы_Моряна_ДвигательБукауВольф_НаправляющаяКлапана _1962.tif",
+      "PngFile": "76_SudaGidrobazy_Moryana_DvigatelBukauVolf_NapravlyayuschayaKlapana_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Двигатель Букау Вольф",
+        "Направляющая Клапана "
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "76_SudaGidrobazy_Moryana_DvigatelBukauVolf_NapravlyayuschayaKlapana_1962_400.png"
+      }
+    },
+    "D57FE093C69B6D5E1C1D2A3542F8019F": {
+      "ResultFileName": "77_SudaGidrobazy_Moryana_NaruzhnyiGrebnoiValMotokatera.tif",
+      "OriginalName": "77_СудаГидробазы_Моряна_НаружныйГребнойВалМотокатера.tif",
+      "PngFile": "77_SudaGidrobazy_Moryana_NaruzhnyiGrebnoiValMotokatera.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Наружный Гребной Вал Мотокатера"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "77_SudaGidrobazy_Moryana_NaruzhnyiGrebnoiValMotokatera_400.png"
+      }
+    },
+    "7E4640E2CA08882B7687B05D700BADBE": {
+      "ResultFileName": "78_SudaGidrobazy_Moryana_ProkladkaPodTsilindrovuyuVtulku.tif",
+      "OriginalName": "78_СудаГидробазы_Моряна_ПрокладкаПодЦилиндровуюВтулку.tif",
+      "PngFile": "78_SudaGidrobazy_Moryana_ProkladkaPodTsilindrovuyuVtulku.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Прокладка Под Цилиндровую Втулку"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "78_SudaGidrobazy_Moryana_ProkladkaPodTsilindrovuyuVtulku_400.png"
+      }
+    },
+    "8C9ED0A78B0B3FE503ABBDBD530DB73D": {
+      "ResultFileName": "79_SudaGidrobazy_Moryana_ProtektoryGlavnogoDvigatelya.tif",
+      "OriginalName": "79_СудаГидробазы_Моряна_ПротекторыГлавногоДвигателя.tif",
+      "PngFile": "79_SudaGidrobazy_Moryana_ProtektoryGlavnogoDvigatelya.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Протекторы Главного Двигателя"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "79_SudaGidrobazy_Moryana_ProtektoryGlavnogoDvigatelya_400.png"
+      }
+    },
+    "A84AC282A38F4E9DDEC4ADB4CBD88BF1": {
+      "ResultFileName": "80_SudaGidrobazy_Moryana_SetkiFiltrovGlavnogoKingstona_1962.tif",
+      "OriginalName": "80_СудаГидробазы_Моряна_СеткиФильтровГлавногоКингстона_1962.tif",
+      "PngFile": "80_SudaGidrobazy_Moryana_SetkiFiltrovGlavnogoKingstona_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Сетки Фильтров Главного Кингстона"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "80_SudaGidrobazy_Moryana_SetkiFiltrovGlavnogoKingstona_1962_400.png"
+      }
+    },
+    "C981CB2FFBBC8AA32C71A5AC8D56CB51": {
+      "ResultFileName": "81_SudaGidrobazy_Moryana_UgolnikiNaPlanshir.tif",
+      "OriginalName": "81_СудаГидробазы_Моряна_УгольникиНаПланширь.tif",
+      "PngFile": "81_SudaGidrobazy_Moryana_UgolnikiNaPlanshir.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Угольники На Планширь"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "81_SudaGidrobazy_Moryana_UgolnikiNaPlanshir_400.png"
+      }
+    },
+    "5994F11AFC8F8778EEAB39DE58DC119A": {
+      "ResultFileName": "82_SudaGidrobazy_Moryana_UgolnikiNaShpangouty.tif",
+      "OriginalName": "82_СудаГидробазы_Моряна_УгольникиНаШпангоуты.tif",
+      "PngFile": "82_SudaGidrobazy_Moryana_UgolnikiNaShpangouty.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Угольники На Шпангоуты"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "82_SudaGidrobazy_Moryana_UgolnikiNaShpangouty_400.png"
+      }
+    },
+    "655E3C74F9E81DBB08E7ADC5029033FC": {
+      "ResultFileName": "83_SudaGidrobazy_Moryana_TsisternaOkhlazhdeniyaRefrizheratora.tif",
+      "OriginalName": "83_СудаГидробазы_Моряна_ЦистернаОхлажденияРефрижератора.tif",
+      "PngFile": "83_SudaGidrobazy_Moryana_TsisternaOkhlazhdeniyaRefrizheratora.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Цистерна Охлаждения Рефрижератора"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "83_SudaGidrobazy_Moryana_TsisternaOkhlazhdeniyaRefrizheratora_400.png"
+      }
+    },
+    "3DB9D2E3EE380114BC3D12C1CC151600": {
+      "ResultFileName": "84_SudaGidrobazy_Moryana_ShinaNaGruzovoiLyuk_1962.tif",
+      "OriginalName": "84_СудаГидробазы_Моряна_ШинаНаГрузовойЛюк_1962.tif",
+      "PngFile": "84_SudaGidrobazy_Moryana_ShinaNaGruzovoiLyuk_1962.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Моряна",
+        "Шина На Грузовой Люк"
+      ],
+      "Year": "1962",
+      "Thumbnails": {
+        "400": "84_SudaGidrobazy_Moryana_ShinaNaGruzovoiLyuk_1962_400.png"
+      }
+    },
+    "CC18C19B02BC259608FA963B56AF0CC5": {
+      "ResultFileName": "85_SudaGidrobazy_Nerpa_DvigatelRuston_KreplenieRadiatora_1963.tif",
+      "OriginalName": "85_СудаГидробазы_Нерпа_ДвигательРустон_КреплениеРадиатора_1963.tif",
+      "PngFile": "85_SudaGidrobazy_Nerpa_DvigatelRuston_KreplenieRadiatora_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Нерпа",
+        "Двигатель Рустон",
+        "Крепление Радиатора"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "85_SudaGidrobazy_Nerpa_DvigatelRuston_KreplenieRadiatora_1963_400.png"
+      }
+    },
+    "63F0BC473F7C369E39F71D9AAFBF9F6D": {
+      "ResultFileName": "86_SudaGidrobazy_Sekstan_GnezdaDlyaOgnetushitelei.tif",
+      "OriginalName": "86_СудаГидробазы_Секстан_ГнездаДляОгнетушителей.tif",
+      "PngFile": "86_SudaGidrobazy_Sekstan_GnezdaDlyaOgnetushitelei.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Секстан",
+        "Гнезда Для Огнетушителей"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "86_SudaGidrobazy_Sekstan_GnezdaDlyaOgnetushitelei_400.png"
+      }
+    },
+    "66FA1244F47685FA7655E8D79D509BDA": {
+      "ResultFileName": "87_SudaGidrobazy_Sekstan_UgolnikiDlyaPolkiGiroposta.tif",
+      "OriginalName": "87_СудаГидробазы_Секстан_УгольникиДляПолкиГиропоста.tif",
+      "PngFile": "87_SudaGidrobazy_Sekstan_UgolnikiDlyaPolkiGiroposta.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Секстан",
+        "Угольники Для Полки Гиропоста"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "87_SudaGidrobazy_Sekstan_UgolnikiDlyaPolkiGiroposta_400.png"
+      }
+    },
+    "0EF9E0AC5F164AE4034704CA0397EE60": {
+      "ResultFileName": "88_SudaGidrobazy_Farvater_KlapanSGolovkoiSpusknogoKlapanaToplivnoiTsisterny.tif",
+      "OriginalName": "88_СудаГидробазы_Фарватер_КлапанСГоловкойСпускногоКлапанаТопливнойЦистерны.tif",
+      "PngFile": "88_SudaGidrobazy_Farvater_KlapanSGolovkoiSpusknogoKlapanaToplivnoiTsisterny.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Фарватер",
+        "Клапан С Головкой Спускного Клапана Топливной Цистерны"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "88_SudaGidrobazy_Farvater_KlapanSGolovkoiSpusknogoKlapanaToplivnoiTsisterny_400.png"
+      }
+    },
+    "3FFE770A3A9EED956365DA5B2FD7CB39": {
+      "ResultFileName": "89_SudaGidrobazy_Farvater_KorpusSpusknogoKlapanaToplivnoiTsisterny.tif",
+      "OriginalName": "89_СудаГидробазы_Фарватер_КорпусСпускногоКлапанаТопливнойЦистерны.tif",
+      "PngFile": "89_SudaGidrobazy_Farvater_KorpusSpusknogoKlapanaToplivnoiTsisterny.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Фарватер",
+        "Корпус Спускного Клапана Топливной Цистерны"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "89_SudaGidrobazy_Farvater_KorpusSpusknogoKlapanaToplivnoiTsisterny_400.png"
+      }
+    },
+    "9B4C2A08082C5C55E15AB17E328A5D41": {
+      "ResultFileName": "90_SudaGidrobazy_Farvater_KryshkaKarternogoLyuka.tif",
+      "OriginalName": "90_СудаГидробазы_Фарватер_КрышкаКартерногоЛюка.tif",
+      "PngFile": "90_SudaGidrobazy_Farvater_KryshkaKarternogoLyuka.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Фарватер",
+        "Крышка Картерного Люка"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "90_SudaGidrobazy_Farvater_KryshkaKarternogoLyuka_400.png"
+      }
+    },
+    "6422D82C3A2EDC7A1EDA8E1574A5D847": {
+      "ResultFileName": "91_SudaGidrobazy_Shkval_GaikiSalnikaDeidvuda_1974.tif",
+      "OriginalName": "91_СудаГидробазы_Шквал_ГайкиСальникаДейдвуда_1974.tif",
+      "PngFile": "91_SudaGidrobazy_Shkval_GaikiSalnikaDeidvuda_1974.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шквал",
+        "Гайки Сальника Дейдвуда"
+      ],
+      "Year": "1974",
+      "Thumbnails": {
+        "400": "91_SudaGidrobazy_Shkval_GaikiSalnikaDeidvuda_1974_400.png"
+      }
+    },
+    "7554B62F7BE1BBA321CB92B07A7C99B7": {
+      "ResultFileName": "92_SudaGidrobazy_Shtorm_BashmakDlyaSemnoiKranbalki_1963.tif",
+      "OriginalName": "92_СудаГидробазы_Шторм_БашмакДляСъемнойКранбалки_1963.tif",
+      "PngFile": "92_SudaGidrobazy_Shtorm_BashmakDlyaSemnoiKranbalki_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Башмак Для Съемной Кранбалки"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "92_SudaGidrobazy_Shtorm_BashmakDlyaSemnoiKranbalki_1963_400.png"
+      }
+    },
+    "EA479FA22AC6BD6818A34F80E1E394A7": {
+      "ResultFileName": "93_SudaGidrobazy_Shtorm_KozhukhKReshetke_1963.tif",
+      "OriginalName": "93_СудаГидробазы_Шторм_КожухКРешетке_1963.tif",
+      "PngFile": "93_SudaGidrobazy_Shtorm_KozhukhKReshetke_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Кожух К Решетке"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "93_SudaGidrobazy_Shtorm_KozhukhKReshetke_1963_400.png"
+      }
+    },
+    "CD23C531026D45166B32DD1E51EC4038": {
+      "ResultFileName": "94_SudaGidrobazy_Shtorm_KorpusFiltra_1963.tif",
+      "OriginalName": "94_СудаГидробазы_Шторм_КорпусФильтра_1963.tif",
+      "PngFile": "94_SudaGidrobazy_Shtorm_KorpusFiltra_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Корпус Фильтра"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "94_SudaGidrobazy_Shtorm_KorpusFiltra_1963_400.png"
+      }
+    },
+    "6104508D24DABB943D747A592030FACA": {
+      "ResultFileName": "95_SudaGidrobazy_Shtorm_KryshkaKFiltru_1963.tif",
+      "OriginalName": "95_СудаГидробазы_Шторм_КрышкаКФильтру_1963.tif",
+      "PngFile": "95_SudaGidrobazy_Shtorm_KryshkaKFiltru_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Крышка К Фильтру"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "95_SudaGidrobazy_Shtorm_KryshkaKFiltru_1963_400.png"
+      }
+    },
+    "C64D420FC866E36C3C7D3C22CBB61E70": {
+      "ResultFileName": "96_SudaGidrobazy_Shtorm_KronshteinINokKranbalki_1963.tif",
+      "OriginalName": "96_СудаГидробазы_Шторм_КронштейнИНокКранбалки_1963.tif",
+      "PngFile": "96_SudaGidrobazy_Shtorm_KronshteinINokKranbalki_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Кронштейн И Нок Кранбалки"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "96_SudaGidrobazy_Shtorm_KronshteinINokKranbalki_1963_400.png"
+      }
+    },
+    "0FC0990BFC065EA6F2E9B02BAC05981A": {
+      "ResultFileName": "97_SudaGidrobazy_Shtorm_SemnayaKranbalka_1963.tif",
+      "OriginalName": "97_СудаГидробазы_Шторм_СъемнаяКранбалка_1963.tif",
+      "PngFile": "97_SudaGidrobazy_Shtorm_SemnayaKranbalka_1963.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Съемная Кранбалка"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "97_SudaGidrobazy_Shtorm_SemnayaKranbalka_1963_400.png"
+      }
+    },
+    "C170C0522D2E19B02BEA68CF75F3F93B": {
+      "ResultFileName": "98_SudaGidrobazy_Shtorm_DvutavrovayaStoikaDlyaPaluby.tif",
+      "OriginalName": "98_СудаГидробазы_Шторм_ДвутавроваяСтойкаДляПалубы.tif",
+      "PngFile": "98_SudaGidrobazy_Shtorm_DvutavrovayaStoikaDlyaPaluby.png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Двутавровая Стойка Для Палубы"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "98_SudaGidrobazy_Shtorm_DvutavrovayaStoikaDlyaPaluby_400.png"
+      }
+    },
+    "6B3E4078B527089F94E36CF3100528A3": {
+      "ResultFileName": "99_SudaGidrobazy_Shtorm_TsinkovayaZaschita_1963(2).tif",
+      "OriginalName": "99_СудаГидробазы_Шторм_ЦинковаяЗащита_1963 (2).tif",
+      "PngFile": "99_SudaGidrobazy_Shtorm_TsinkovayaZaschita_1963(2).png",
+      "Tags": [
+        "Суда Гидробазы",
+        "Шторм",
+        "Цинковая Защита",
+        "1963 ( 2)"
+      ],
+      "Year": null,
+      "Thumbnails": {
+        "400": "99_SudaGidrobazy_Shtorm_TsinkovayaZaschita_1963(2)_400.png"
+      }
+    }
+  }
+}

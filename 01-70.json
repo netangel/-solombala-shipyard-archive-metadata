@@ -1,0 +1,34 @@
+{
+  "Directory": "01-70",
+  "OriginalName": "01-70",
+  "Description": null,
+  "Files": {
+    "4D337AA9ADDAA2E82175B5459BA599D8": {
+      "ResultFileName": "001_BotDlyaMurmana_ObscheeRaspolozhenie_Obnovlennyy_1945.tif",
+      "OriginalName": "001_BotDlyaMurmana_ObscheeRaspolozhenie_Обновленный_1945.tif",
+      "PngFile": "001_BotDlyaMurmana_ObscheeRaspolozhenie_Obnovlennyy_1945.png",
+      "Tags": [
+        "Bot Dlya Murmana",
+        "Obschee Raspolozhenie",
+        "Обновленный"
+      ],
+      "Year": "1945",
+      "Thumbnails": {
+        "400": "001_BotDlyaMurmana_ObscheeRaspolozhenie_Obnovlennyy_1945_400.png"
+      }
+    },
+    "ACF6886127F05DB344805362401A79EF": {
+      "ResultFileName": "002_BotDlyaMurmana_TeoreticheskiyChertezh_1963.tif",
+      "OriginalName": "002_BotDlyaMurmana_TeoreticheskiyChertezh_1963.tif",
+      "PngFile": "002_BotDlyaMurmana_TeoreticheskiyChertezh_1963.png",
+      "Tags": [
+        "Bot Dlya Murmana",
+        "Teoreticheskiy Chertezh"
+      ],
+      "Year": "1963",
+      "Thumbnails": {
+        "400": "002_BotDlyaMurmana_TeoreticheskiyChertezh_1963_400.png"
+      }
+    }
+  }
+}
