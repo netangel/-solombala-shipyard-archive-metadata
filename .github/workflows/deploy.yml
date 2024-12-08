@@ -8,8 +8,8 @@ on:
 
 env:
   ZOLA_VERSION: "0.19.2"
-  TEMPLATES_REPO: "git@github.com:netangel/solombala-shipyard-archive-site.git"
-  SCRIPTS_REPO: "git@github.com:netangel/archive-tovarishestvo.git"
+  TEMPLATES_REPO: "netangel/solombala-shipyard-archive-site.git"
+  SCRIPTS_REPO: "netangel/archive-tovarishestvo.git"
 
 jobs:
   build-and-deploy:
