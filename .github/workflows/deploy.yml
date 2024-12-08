@@ -45,11 +45,8 @@ jobs:
 
       - name: Convert JSON to Zola Content
         run: |
-          # Import functions from the scripts repository
-          . .\scripts\Convert-ToZola.ps1
-          
           # Run the conversion
-          Convert-ToZola -MetadataPath .\source -ZolaContentPath .\template\content
+          .\scripts\Convert-ToZola -MetadataPath .\source -ZolaContentPath .\template\content
         shell: pwsh
 
       - name: Build Zola Site
