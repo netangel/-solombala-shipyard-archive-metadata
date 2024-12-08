@@ -1,0 +1,85 @@
+name: Build and Deploy Static Site
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+env:
+  ZOLA_VERSION: "0.19.2"
+  TEMPLATES_REPO: "git@github.com:netangel/solombala-shipyard-archive-site.git"
+  SCRIPTS_REPO: "git@github.com:netangel/archive-tovarishestvo.git"
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+    
+    steps:
+      - name: Checkout JSON Data Repository
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Checkout Zola Templates
+        uses: actions/checkout@v4
+        with:
+          repository: netangel/solombala-shipyard-archive-site
+          ssh-key: ${{ secrets.TEMPLATES_SSH_KEY }}
+          path: template
+
+      - name: Checkout PowerShell Scripts
+        uses: actions/checkout@v4
+        with:
+          repository: your-username/archive-scripts  # Replace with your scripts repo
+          ssh-key: ${{ secrets.SCRIPTS_SSH_KEY }}
+          path: scripts
+
+      - name: Install Zola
+        run: |
+          $zolaUrl = "https://github.com/getzola/zola/releases/download/v${env:ZOLA_VERSION}/zola-v${env:ZOLA_VERSION}-x86_64-pc-windows-msvc.zip"
+          Invoke-WebRequest -Uri $zolaUrl -OutFile zola.zip
+          Expand-Archive -Path zola.zip -DestinationPath .
+          Move-Item -Path zola.exe -Destination C:\Windows\System32\
+        shell: pwsh
+
+      - name: Convert JSON to Zola Content
+        run: |
+          # Import functions from the scripts repository
+          . .\scripts\Convert-ToZola.ps1
+          
+          # Run the conversion
+          Convert-ToZola -SourcePath .\source -OutputPath .\template\content
+        shell: pwsh
+
+      - name: Build Zola Site
+        run: |
+          cd template
+          zola build
+        shell: pwsh
+
+      - name: Install s3cmd
+        run: |
+          pip install s3cmd
+        shell: pwsh
+
+      - name: Configure s3cmd
+        run: |
+          @"
+          [default]
+          access_key = ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
+          secret_key = ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
+          host_base = ${{ secrets.S3_ENDPOINT }}
+          host_bucket = %(bucket)s.${{ secrets.S3_ENDPOINT }}
+          use_https = True
+          "@ | Out-File -FilePath "$env:USERPROFILE\.s3cfg" -Encoding UTF8
+        shell: pwsh
+
+      - name: Upload to Linode Objects
+        run: |
+          s3cmd sync --delete-removed `
+            --no-mime-magic `
+            --guess-mime-type `
+            .\template\public\ s3://${{ secrets.S3_BUCKET }}/
+        shell: pwsh
+
