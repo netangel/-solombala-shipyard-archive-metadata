@@ -24,14 +24,14 @@ jobs:
       - name: Checkout Zola Templates
         uses: actions/checkout@v4
         with:
-          repository: netangel/solombala-shipyard-archive-site
+          repository: ${{ env:TEMPLATES_REPO }} 
           ssh-key: ${{ secrets.TEMPLATES_SSH_KEY }}
           path: template
 
       - name: Checkout PowerShell Scripts
         uses: actions/checkout@v4
         with:
-          repository: your-username/archive-scripts  # Replace with your scripts repo
+          repository: ${{ env.SCRIPTS_REPO }} 
           ssh-key: ${{ secrets.SCRIPTS_SSH_KEY }}
           path: scripts
 
