@@ -49,7 +49,7 @@ jobs:
           . .\scripts\Convert-ToZola.ps1
           
           # Run the conversion
-          Convert-ToZola -SourcePath .\source -OutputPath .\template\content
+          Convert-ToZola -MetadataPath .\source -ZolaContentPath .\template\content
         shell: pwsh
 
       - name: Build Zola Site
