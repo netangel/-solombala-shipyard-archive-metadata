@@ -48,11 +48,11 @@ jobs:
           sudo mv zola /usr/local/bin
 
       - name: Convert JSON to Zola Content
-        run: |
-          # Run the conversion
-          .\scripts\Convert-ToZola -MetadataPath .\source -ZolaContentPath .\template\content
         shell: pwsh
-
+        run: |
+          . ./scripts/Convert-ToZola.ps1
+          Convert-ToZola -SourcePath ./source -OutputPath ./template/content
+      
       - name: Build Zola Site
         run: |
           cd template
