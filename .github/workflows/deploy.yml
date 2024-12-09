@@ -57,38 +57,14 @@ jobs:
           zola build
         shell: pwsh
 
-      - name: Install s3cmd
-        run: |
-          pip install s3cmd
-        shell: pwsh
+      - name: Set up S3cmd cli tool
+        uses: s3-actions/s3cmd@v1.9.0
+        with:
+          provider:  linode
+          access_key: ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
+          secret_key: ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
 
-      - name: Verify s3cmd
+      - name: Upload the zola site
         run: |
-         s3cmd --version
-        shell: pwsh
-
-      - name: Configure s3cmd
-        run: |
-          @"
-          [default]
-          access_key = ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
-          secret_key = ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
-          host_base = ${{ env.S3_ENDPOINT }}
-          host_bucket = %(bucket)s.${{ env.S3_ENDPOINT }}
-          use_https = True
-          "@ | Out-File -FilePath ".s3cfg" -Encoding UTF8
-        shell: pwsh
-
-      - name: Verify s3cmd config
-        run: |
-         cat .s3cfg
-        shell: pwsh
-
-      - name: Upload to Linode Objects
-        run: |
-          s3cmd --config=.s3cfg sync `
-            --no-mime-magic `
-            --guess-mime-type `
-            .\template\public\ s3://${{ env.S3_BUCKET }}/ --debug
-        shell: pwsh
-
+          s3cmd mb --host ${{ env.S3_ENDPOINT }}  s3://${{ env.S3_BUCKET }}
+          s3cmd sync --no-mime-magic --guess-mime-type .\template\public\ s3://${{ env.S3_BUCKET }}/
