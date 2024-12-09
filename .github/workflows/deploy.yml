@@ -79,6 +79,6 @@ jobs:
           s3cmd --config=.s3cfg sync `
             --no-mime-magic `
             --guess-mime-type `
-            .\template\public\ s3://${{ env.S3_BUCKET }}/
+            .\template\public\ s3://${{ env.S3_BUCKET }}/ --debug
         shell: pwsh
 
