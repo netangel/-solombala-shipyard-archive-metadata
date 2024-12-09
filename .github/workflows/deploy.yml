@@ -66,17 +66,17 @@ jobs:
           [default]
           access_key = ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
           secret_key = ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
-          host_base = ${{ secrets.S3_ENDPOINT }}
-          host_bucket = %(bucket)s.${{ secrets.S3_ENDPOINT }}
+          host_base = ${{ env.S3_ENDPOINT }}
+          host_bucket = %(bucket)s.${{ env.S3_ENDPOINT }}
           use_https = True
-          "@ | Out-File -FilePath "$env:USERPROFILE\.s3cfg" -Encoding UTF8
+          "@ | Out-File -FilePath ".s3cfg" -Encoding UTF8
         shell: pwsh
 
       - name: Upload to Linode Objects
         run: |
-          s3cmd sync --delete-removed `
+          s3cmd --config=.s3cfg sync `
             --no-mime-magic `
             --guess-mime-type `
-            .\template\public\ s3://${{ secrets.S3_BUCKET }}/
+            .\template\public\ s3://${{ env.S3_BUCKET }}/
         shell: pwsh
 
