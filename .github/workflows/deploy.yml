@@ -57,14 +57,23 @@ jobs:
           cd template
           zola build
 
-      - name: Set up S3cmd cli tool
-        uses: s3-actions/s3cmd@v1.9.0
-        with:
-          provider: linode
-          access_key: ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
-          secret_key: ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
+      - name: Install s3cmd
+        run: sudo apt-get install -y s3cmd
 
-      - name: Upload the zola site
+      - name: Configure s3cmd
         run: |
-          s3cmd --host ${{ env.S3_ENDPOINT }} --acl-public --recursive --guess-mime-type sync .\template\public\ s3://${{ env.S3_BUCKET }}/
-          s3cmd --host ${{ env.S3_ENDPOINT }} info s3://${{ env.S3_BUCKET }}/
+          cat > ~/.s3cfg << EOF
+          [default]
+          access_key = ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
+          secret_key = ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
+          host_base = ${{ env.S3_ENDPOINT }}
+          host_bucket = %(bucket)s.${{ env.S3_ENDPOINT }}
+          use_https = True
+          EOF
+
+      - name: Upload to Linode Objects
+        run: |
+          s3cmd sync --acl-public \
+            --no-mime-magic \
+            --guess-mime-type \
+            ./template/public/ s3://${{ env.S3_BUCKET }}/
