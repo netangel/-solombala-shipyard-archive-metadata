@@ -15,7 +15,7 @@ env:
 
 jobs:
   build-and-deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     
     steps:
       - name: Checkout JSON Data Repository
@@ -37,13 +37,15 @@ jobs:
           ssh-key: ${{ secrets.SCRIPTS_SSH_KEY }}
           path: scripts
 
+      - name: Install PowerShell
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y powershell
+
       - name: Install Zola
         run: |
-          $zolaUrl = "https://github.com/getzola/zola/releases/download/v${env:ZOLA_VERSION}/zola-v${env:ZOLA_VERSION}-x86_64-pc-windows-msvc.zip"
-          Invoke-WebRequest -Uri $zolaUrl -OutFile zola.zip
-          Expand-Archive -Path zola.zip -DestinationPath .
-          Move-Item -Path zola.exe -Destination C:\Windows\System32\
-        shell: pwsh
+          curl -L "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" | tar xz
+          sudo mv zola /usr/local/bin
 
       - name: Convert JSON to Zola Content
         run: |
@@ -55,16 +57,15 @@ jobs:
         run: |
           cd template
           zola build
-        shell: pwsh
 
       - name: Set up S3cmd cli tool
         uses: s3-actions/s3cmd@v1.9.0
         with:
-          provider:  linode
+          provider: linode
           access_key: ${{ secrets.LINODE_BUCKET_ACCESS_KEY_ID }}
           secret_key: ${{ secrets.LINODE_BUCKET_SECRET_ACCESS_KEY }}
 
       - name: Upload the zola site
         run: |
-          s3cmd mb --host ${{ env.S3_ENDPOINT }}  s3://${{ env.S3_BUCKET }}
-          s3cmd sync --no-mime-magic --guess-mime-type .\template\public\ s3://${{ env.S3_BUCKET }}/
+          s3cmd --host ${{ env.S3_ENDPOINT }} --acl-public --recursive --guess-mime-type sync .\template\public\ s3://${{ env.S3_BUCKET }}/
+          s3cmd --host ${{ env.S3_ENDPOINT }} info s3://${{ env.S3_BUCKET }}/
