@@ -50,8 +50,7 @@ jobs:
       - name: Convert JSON to Zola Content
         shell: pwsh
         run: |
-          . ./scripts/Convert-ToZola.ps1
-          Convert-ToZola -SourcePath ./source -OutputPath ./template/content
+          . ./scripts/Convert-ToZola.ps1 -MetadataPath ./source -ZolaContentPath ./template/content
       
       - name: Build Zola Site
         run: |
