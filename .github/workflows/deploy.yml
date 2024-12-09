@@ -10,11 +10,12 @@ env:
   ZOLA_VERSION: "0.19.2"
   TEMPLATES_REPO: "netangel/solombala-shipyard-archive-site"
   SCRIPTS_REPO: "netangel/archive-tovarishestvo"
+  S3_ENDPOINT: "se-sto-1.linodeobjects.com"
+  S3_BUCKET: "schooner-archive-v2"
 
 jobs:
   build-and-deploy:
     runs-on: windows-latest
-    environment: zola-deploy
     
     steps:
       - name: Checkout JSON Data Repository
