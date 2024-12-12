@@ -15,7 +15,9 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_001_KarbasSeldyanoi_KonduktorDlyaSkleikiShtevnya_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "9E534A74B93705C3EC7D66DE6D224F50": {
       "ResultFileName": "KS_002_KarbasSeldyanoi_KonduktorDlyaSkleikiPervogoShpangouta_1968.tif",
@@ -29,7 +31,9 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_002_KarbasSeldyanoi_KonduktorDlyaSkleikiPervogoShpangouta_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "12C3000BC52E3954155460DCB23FCA99": {
       "ResultFileName": "KS_003_K_KarbasSeldyanoi_KonstruktivnyiMidelShpangout_1968.tif",
@@ -44,7 +48,9 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_003_K_KarbasSeldyanoi_KonstruktivnyiMidelShpangout_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "DF38A74FA9307A97BBDB454179D9CC6B": {
       "ResultFileName": "KS_004_KarbasSeldyanoi_RastyazhkaNaruzhnoiObshivki_1968.tif",
@@ -58,12 +64,14 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_004_KarbasSeldyanoi_RastyazhkaNaruzhnoiObshivki_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "833FA97CB9A863B603E4721FB4FCFC66": {
       "ResultFileName": "KS_005_KarbasSeldyanoi_VedomostSnabzheniyaInventarem_1968.tif",
       "OriginalName": "КС_005_КарбасСельдяной_ВедомостьСнабженияИнвентарем_1968.pdf",
-      "PngFile": "KS_005_KarbasSeldyanoi_VedomostSnabzheniyaInventarem_1968.png",
+      "PngFile": "KS_005_KarbasSeldyanoi_VedomostSnabzheniyaInventarem_1968-0-0.png",
       "Tags": [
         "К С",
         "Карбас Сельдяной",
@@ -71,13 +79,15 @@
       ],
       "Year": "1968",
       "Thumbnails": {
-        "400": "KS_005_KarbasSeldyanoi_VedomostSnabzheniyaInventarem_1968_400.png"
-      }
+        "400": "KS_005_KarbasSeldyanoi_VedomostSnabzheniyaInventarem_1968_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": "KS_005_KarbasSeldyanoi_VedomostSnabzheniyaInventarem_1968-0-1.png"
     },
     "9DBB4ACA49559DA433323353E630BE6A": {
       "ResultFileName": "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968.tif",
       "OriginalName": "КС_007_КарбасСельдяной_КомплектовочнаяВедомостьПоМеханическомуУчастку_1968.pdf",
-      "PngFile": "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968.png",
+      "PngFile": "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968-0-0.png",
       "Tags": [
         "К С",
         "Карбас Сельдяной",
@@ -85,8 +95,14 @@
       ],
       "Year": "1968",
       "Thumbnails": {
-        "400": "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968_400.png"
-      }
+        "400": "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": [
+        "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968-0-1.png",
+        "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968-0-2.png",
+        "KS_007_KarbasSeldyanoi_KomplektovochnayaVedomostPoMekhanicheskomuUchastku_1968-0-3.png"
+      ]
     },
     "B13532060496DD517A06F326721D1E81": {
       "ResultFileName": "KS_008_KarbasSeldyanoi_Veslo_dlina3_1m_1968.tif",
@@ -101,7 +117,9 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_008_KarbasSeldyanoi_Veslo_dlina3_1m_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "2E916A24BCF4B9E0C3F60CD019A6F794": {
       "ResultFileName": "KS_009_KarbasSeldyanoi_KonstruktivnyiChertezh_1968.tif",
@@ -115,7 +133,9 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_009_KarbasSeldyanoi_KonstruktivnyiChertezh_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "E56E6CC28006D4D233C1C93A3AC374E5": {
       "ResultFileName": "KS_011_KarbasSeldyanoi_TeoreticheskiiChertezh_1968-1.tif",
@@ -129,7 +149,9 @@
       "Year": "1968-1",
       "Thumbnails": {
         "400": "KS_011_KarbasSeldyanoi_TeoreticheskiiChertezh_1968-1_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "35B82F4D5E75DFF9285F80D59DED118D": {
       "ResultFileName": "KS_012_KarbasSeldyanoi_Kochet_1968.tif",
@@ -143,12 +165,14 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_012_KarbasSeldyanoi_Kochet_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "E1359FEA366EF4C392D413D3DC589553": {
       "ResultFileName": "KS_026_KarbasSeldyanoi_KonstruktivnyiChertezhKorpusa_Spetsifikatsiya.tif",
       "OriginalName": "КС_026_КарбасСельдяной_КонструктивныйЧертежКорпуса_Спецификация.pdf",
-      "PngFile": "KS_026_KarbasSeldyanoi_KonstruktivnyiChertezhKorpusa_Spetsifikatsiya.png",
+      "PngFile": "KS_026_KarbasSeldyanoi_KonstruktivnyiChertezhKorpusa_Spetsifikatsiya-0-0.png",
       "Tags": [
         "К С",
         "Карбас Сельдяной",
@@ -157,8 +181,10 @@
       ],
       "Year": null,
       "Thumbnails": {
-        "400": "KS_026_KarbasSeldyanoi_KonstruktivnyiChertezhKorpusa_Spetsifikatsiya_400.png"
-      }
+        "400": "KS_026_KarbasSeldyanoi_KonstruktivnyiChertezhKorpusa_Spetsifikatsiya_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": "KS_026_KarbasSeldyanoi_KonstruktivnyiChertezhKorpusa_Spetsifikatsiya-0-1.png"
     },
     "A0D9208DFBAEB42A7F970B4B7911CD05": {
       "ResultFileName": "KS_14_KarbasSeldyanoi_VykleikaShpangoutov_PodkladnyeBruski_1968.tif",
@@ -173,7 +199,9 @@
       "Year": "1968",
       "Thumbnails": {
         "400": "KS_14_KarbasSeldyanoi_VykleikaShpangoutov_PodkladnyeBruski_1968_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "FA27870FC3B039AEB7BA666FAA7ECFDF": {
       "ResultFileName": "KS_15_KarbasSeldyanoi_PrizhimBokovoi_1969.tif",
@@ -187,12 +215,14 @@
       "Year": "1969",
       "Thumbnails": {
         "400": "KS_15_KarbasSeldyanoi_PrizhimBokovoi_1969_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "EAF7A8FF05C30039CA8973FB21AB0EFF": {
       "ResultFileName": "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973.tif",
       "OriginalName": "КС_16_КарбасСельдяной_ТехнологическаяВедомостьПоМеханическомуЦеху_1973.pdf",
-      "PngFile": "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973.png",
+      "PngFile": "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-0.png",
       "Tags": [
         "К С",
         "Карбас Сельдяной",
@@ -200,13 +230,22 @@
       ],
       "Year": "1973",
       "Thumbnails": {
-        "400": "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973_400.png"
-      }
+        "400": "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": [
+        "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-1.png",
+        "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-2.png",
+        "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-3.png",
+        "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-4.png",
+        "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-5.png",
+        "KS_16_KarbasSeldyanoi_TekhnologicheskayaVedomostPoMekhanicheskomuTsekhu_1973-0-6.png"
+      ]
     },
     "04376F529ECB237FBB40AED090F5C954": {
       "ResultFileName": "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973.tif",
       "OriginalName": "КС_17_КарбасСельдяной_ТехнологическаяВедомостьПоКорпусномуЦеху_1973.pdf",
-      "PngFile": "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973.png",
+      "PngFile": "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-0.png",
       "Tags": [
         "К С",
         "Карбас Сельдяной",
@@ -214,8 +253,21 @@
       ],
       "Year": "1973",
       "Thumbnails": {
-        "400": "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973_400.png"
-      }
+        "400": "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": [
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-1.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-2.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-3.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-4.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-5.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-6.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-7.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-8.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-9.png",
+        "KS_17_KarbasSeldyanoi_TekhnologicheskayaVedomostPoKorpusnomuTsekhu_1973-0-10.png"
+      ]
     },
     "B9F9578DB8B492AAF5E8DC30F8E19048": {
       "ResultFileName": "KS_18_KarbasSeldyanoi_Zakladka_SostavnyeShtevni_1969.tif",
@@ -230,7 +282,9 @@
       "Year": "1969",
       "Thumbnails": {
         "400": "KS_18_KarbasSeldyanoi_Zakladka_SostavnyeShtevni_1969_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "BB7556BC84547C8EDD985B367835C90D": {
       "ResultFileName": "KS_19_KarbasSeldyanoi_PlazovyiKorpus_TablitsaOrdinatPrakticheskikhShpangoutov_1971.tif",
@@ -245,7 +299,9 @@
       "Year": "1971",
       "Thumbnails": {
         "400": "KS_19_KarbasSeldyanoi_PlazovyiKorpus_TablitsaOrdinatPrakticheskikhShpangoutov_1971_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "46907736D4E0423F16159EC3C4F935CB": {
       "ResultFileName": "KS_20_KarbasSeldyanoi_MarkaGruzovaya_1972.tif",
@@ -259,7 +315,9 @@
       "Year": "1972",
       "Thumbnails": {
         "400": "KS_20_KarbasSeldyanoi_MarkaGruzovaya_1972_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "597B8C874EBD93DDBC4722532B1B821D": {
       "ResultFileName": "KS_20_SB_KarbasSeldyanoi_MarkaGruzovaya.tif",
@@ -274,7 +332,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "KS_20_SB_KarbasSeldyanoi_MarkaGruzovaya_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "33BCDBC8EF0069C056543B8B547273F7": {
       "ResultFileName": "KS_21_KarbasSeldyanoi_GruzovayaMarka_Ustanovka_1972.tif",
@@ -289,7 +349,9 @@
       "Year": "1972",
       "Thumbnails": {
         "400": "KS_21_KarbasSeldyanoi_GruzovayaMarka_Ustanovka_1972_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "640A0333A8CFDCE796F5B42A7BE1AC0A": {
       "ResultFileName": "KS_23_KarbasSeldyanoi_PlazovyeShtevni_1979.tif",
@@ -303,7 +365,9 @@
       "Year": "1979",
       "Thumbnails": {
         "400": "KS_23_KarbasSeldyanoi_PlazovyeShtevni_1979_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "CF31C91CB525D95A332A5C2B20CF4C2C": {
       "ResultFileName": "KS_24_KarbasSeldyanoi_Zakladka_Spetsifikatsiya_1979.tif",
@@ -318,7 +382,9 @@
       "Year": "1979",
       "Thumbnails": {
         "400": "KS_24_KarbasSeldyanoi_Zakladka_Spetsifikatsiya_1979_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "6029BF96A80904D3D981904716B88DA8": {
       "ResultFileName": "KS_24_SB_KarbasSeldyanoi_Zakladka_1979.tif",
@@ -333,7 +399,9 @@
       "Year": "1979",
       "Thumbnails": {
         "400": "KS_24_SB_KarbasSeldyanoi_Zakladka_1979_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "85CD149A182005BEEB9C8EC5316B667D": {
       "ResultFileName": "KS_25_SB_KarbasSeldyanoi_UstanovkaNaZheleznodorozhnoiPlatforme_1978.tif",
@@ -348,7 +416,9 @@
       "Year": "1978",
       "Thumbnails": {
         "400": "KS_25_SB_KarbasSeldyanoi_UstanovkaNaZheleznodorozhnoiPlatforme_1978_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     }
   }
 }

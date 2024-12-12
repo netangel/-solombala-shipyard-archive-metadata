@@ -14,7 +14,9 @@
       "Year": "1965",
       "Thumbnails": {
         "400": "01_3_SudaGidrobazy_KorpusVodyanogoKholodilnika_1965_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "3531B329E95251E7BCE41EBFD08041E9": {
       "ResultFileName": "02_6_SudaGidrobazy_KolpachkiKGlavnomuDvigatelyu_1962.tif",
@@ -27,7 +29,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "02_6_SudaGidrobazy_KolpachkiKGlavnomuDvigatelyu_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "2C703EDED7E5C8178E5A8429970D3446": {
       "ResultFileName": "03_9_SudaGidrobazy_Buksovka_1961.tif",
@@ -40,7 +44,9 @@
       "Year": "1961",
       "Thumbnails": {
         "400": "03_9_SudaGidrobazy_Buksovka_1961_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "1B623F601671C0947787ACDB3D6C232A": {
       "ResultFileName": "04_10_SudaGidrobazy_Inei_KronshteinKVentilyatoruKambuza_1961.tif",
@@ -54,7 +60,9 @@
       "Year": "1961",
       "Thumbnails": {
         "400": "04_10_SudaGidrobazy_Inei_KronshteinKVentilyatoruKambuza_1961_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "F6A92F0375D264ED3B4543799B4CD787": {
       "ResultFileName": "05_389-95-48_SudaGidrobazy_ObscheeRaspolozhenie_ProdolRazrez_PlanRubki.tif",
@@ -69,7 +77,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "05_389-95-48_SudaGidrobazy_ObscheeRaspolozhenie_ProdolRazrez_PlanRubki_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "29593FDF08A1CB88122C68909FE9B4E8": {
       "ResultFileName": "06_1847_SudaGidrobazy_GvozdiKorabelnye_1960.tif",
@@ -82,7 +92,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "06_1847_SudaGidrobazy_GvozdiKorabelnye_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "CF08E689A4AB4A92ED786551D53472CB": {
       "ResultFileName": "07_3105_SudaGidrobazy_Rul_NavesNizhniiVerkhnii_1974.tif",
@@ -96,7 +108,9 @@
       "Year": "1974",
       "Thumbnails": {
         "400": "07_3105_SudaGidrobazy_Rul_NavesNizhniiVerkhnii_1974_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "205939C2DE65EE1F452B36600186EEE2": {
       "ResultFileName": "08_3105_SudaGidrobazy_Rumpel_Okovka_Rul_OkovkaTortsa_1974.tif",
@@ -112,7 +126,9 @@
       "Year": "1974",
       "Thumbnails": {
         "400": "08_3105_SudaGidrobazy_Rumpel_Okovka_Rul_OkovkaTortsa_1974_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "0B03E931A9362AC8AA81712B1F9588E9": {
       "ResultFileName": "09_E75333R_SudaGidrobazy_NapravlyayuschayaKlapana_1953.tif",
@@ -126,7 +142,9 @@
       "Year": "1953",
       "Thumbnails": {
         "400": "09_E75333R_SudaGidrobazy_NapravlyayuschayaKlapana_1953_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "401E83D9E4B08EC6496EC12B5A319827": {
       "ResultFileName": "10_G-1378_SudaGidrobazy_Aisberg_YakorKoshka15_1960.tif",
@@ -141,7 +159,9 @@
       "Year": "15-1960",
       "Thumbnails": {
         "400": "10_G-1378_SudaGidrobazy_Aisberg_YakorKoshka15_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "03E4B245B7FF6C9E715E4F6001F31ECF": {
       "ResultFileName": "100_SudaGidrobazy_KryshkaKarternayaSPatrubkom(2).tif",
@@ -154,7 +174,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "100_SudaGidrobazy_KryshkaKarternayaSPatrubkom(2)_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "C6A126685909A542EE23D3808029D936": {
       "ResultFileName": "101_SudaGidrobazy_PrintsipialnayaSkhemaVozdushnogoTruboprovoda.tif",
@@ -167,7 +189,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "101_SudaGidrobazy_PrintsipialnayaSkhemaVozdushnogoTruboprovoda_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "6881EAE76F6BBCCF2E1620961CAE6BFB": {
       "ResultFileName": "102_SudaGidrobazy_UplotnitelnoeKoltsoKNasosuOkhlazhdVody_1962.tif",
@@ -180,7 +204,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "102_SudaGidrobazy_UplotnitelnoeKoltsoKNasosuOkhlazhdVody_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "606A2ABFFF8612890D22826911EDAA50": {
       "ResultFileName": "103_SudaGidrobazy_KhomutStyazhnoi.tif",
@@ -193,7 +219,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "103_SudaGidrobazy_KhomutStyazhnoi_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "D06E2306AEADA7F53D7910FD109E4B58": {
       "ResultFileName": "104_SudaGidrobazy_AdmiralteiskiiYakor_Cheka.tif",
@@ -207,7 +235,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "104_SudaGidrobazy_AdmiralteiskiiYakor_Cheka_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "842884B7C944648A39C3ACEA034AE8B5": {
       "ResultFileName": "11_G-1389_SudaGidrobazy_Peshnya_Detali_1962.tif",
@@ -222,7 +252,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "11_G-1389_SudaGidrobazy_Peshnya_Detali_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "ECFCC15161209C23A10FBA860580A447": {
       "ResultFileName": "12_K146_SudaGidrobazyMoryana_SchitokTopkiKambuznoiPlity_1963.tif",
@@ -236,7 +268,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "12_K146_SudaGidrobazyMoryana_SchitokTopkiKambuznoiPlity_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "97703D2EFED849D001205F4A57CF536F": {
       "ResultFileName": "13_K-1369_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_1961.tif",
@@ -251,7 +285,9 @@
       "Year": "1961",
       "Thumbnails": {
         "400": "13_K-1369_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_1961_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "6D4808753DD11AA12793D8F49565D1F7": {
       "ResultFileName": "14_K-1370_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_IzolyatsiyaKamery.tif",
@@ -267,12 +303,14 @@
       "Year": null,
       "Thumbnails": {
         "400": "14_K-1370_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_IzolyatsiyaKamery_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "4EB891094CD4AB232F02E336D034FE86": {
       "ResultFileName": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961.tif",
       "OriginalName": "15_К-1372_СудаГидробазы_Моряна_ПереборочныйСтакан_Ду-20_1961.tif",
-      "PngFile": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961.png",
+      "PngFile": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961-0-0.png",
       "Tags": [
         "К",
         "Суда Гидробазы",
@@ -282,13 +320,18 @@
       ],
       "Year": "20-1961",
       "Thumbnails": {
-        "400": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961_400.png"
-      }
+        "400": "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": [
+        "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961-0-1.png",
+        "15_K-1372_SudaGidrobazy_Moryana_PereborochnyiStakan_Du-20_1961-0-2.png"
+      ]
     },
     "A709309F3D7D37456E300C16CC8347C7": {
       "ResultFileName": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961.tif",
       "OriginalName": "16_К-1373_СудаГидробазы_Моряна_СточныйШпигат_1961.tif",
-      "PngFile": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961.png",
+      "PngFile": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961-0-0.png",
       "Tags": [
         "К",
         "Суда Гидробазы",
@@ -297,13 +340,18 @@
       ],
       "Year": "1961",
       "Thumbnails": {
-        "400": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961_400.png"
-      }
+        "400": "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": [
+        "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961-0-1.png",
+        "16_K-1373_SudaGidrobazy_Moryana_StochnyiShpigat_1961-0-2.png"
+      ]
     },
     "4A473AA852A46D891D0D5479AD891384": {
       "ResultFileName": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961.tif",
       "OriginalName": "17_К-1374_СудаГидробазы_Моряна_РефрижираторнаяУстановка_Детали_1961.tif",
-      "PngFile": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961.png",
+      "PngFile": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961-0-0.png",
       "Tags": [
         "К",
         "Суда Гидробазы",
@@ -313,8 +361,13 @@
       ],
       "Year": "1961",
       "Thumbnails": {
-        "400": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961_400.png"
-      }
+        "400": "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961_400-0.png"
+      },
+      "MultiPage": true,
+      "PngFilePages": [
+        "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961-0-1.png",
+        "17_K-1374_SudaGidrobazy_Moryana_RefrizhiratornayaUstanovka_Detali_1961-0-2.png"
+      ]
     },
     "C805235D5DB0557FEC1235FF5D52F462": {
       "ResultFileName": "18_K-1800-02_SudaGidrobazy_Vtulka_Stopor.tif",
@@ -329,7 +382,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "18_K-1800-02_SudaGidrobazy_Vtulka_Stopor_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "E7762C9C0FC60B18971A735D5A1FB9DE": {
       "ResultFileName": "19_M-1398_SudaGidrobazy_Shtorm_KrylatkaNasosaZabortnoiVody_1960.tif",
@@ -344,7 +399,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "19_M-1398_SudaGidrobazy_Shtorm_KrylatkaNasosaZabortnoiVody_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "A376952AA50B73F0E680695ECCEF456F": {
       "ResultFileName": "20_M-1399_SudaGidrobazy_Rasshiritelnyibachek.tif",
@@ -358,7 +415,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "20_M-1399_SudaGidrobazy_Rasshiritelnyibachek_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "9A365BCBDA06D1F1A7BECDB9469BD49B": {
       "ResultFileName": "21_M-1441_SudaGidrobazy_Vikhr_SoploVytyazhnoiTruby_1961.tif",
@@ -373,7 +432,9 @@
       "Year": "1961",
       "Thumbnails": {
         "400": "21_M-1441_SudaGidrobazy_Vikhr_SoploVytyazhnoiTruby_1961_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "DF50B86EB78233C6D64D37DC4DB455D5": {
       "ResultFileName": "22_M-1447_SudaGidrobazy_Sekstan_StupitsaVinta_1962.tif",
@@ -388,7 +449,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "22_M-1447_SudaGidrobazy_Sekstan_StupitsaVinta_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "F432238DA5E34D1DFF775D8027E117C7": {
       "ResultFileName": "23_M-1448-1_SudaGidrobazy_GrebnoiVal_1970.tif",
@@ -402,7 +465,9 @@
       "Year": "1970",
       "Thumbnails": {
         "400": "23_M-1448-1_SudaGidrobazy_GrebnoiVal_1970_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "BC6410E6E18111F15E570690867B73C5": {
       "ResultFileName": "24_M-1802-09_SudaGidrobazy_Sekstan_Bachek.tif",
@@ -417,7 +482,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "24_M-1802-09_SudaGidrobazy_Sekstan_Bachek_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "01A05F0CF2AA5BD42978B31D48184F03": {
       "ResultFileName": "25_SCh-02-01_SudaGidrobazy_KambuznayaPlita_Detali_1963.tif",
@@ -432,7 +499,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "25_SCh-02-01_SudaGidrobazy_KambuznayaPlita_Detali_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "B74C36556B12D704E2165DEC135A500F": {
       "ResultFileName": "26_SudaGidrobazy_Aisberg_ChertezhNeAtributirovan_1962.tif",
@@ -446,7 +515,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "26_SudaGidrobazy_Aisberg_ChertezhNeAtributirovan_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "AA5049123EDD3CF2724EEBAEFB79A729": {
       "ResultFileName": "27_SudaGidrobazy_Aisberg_ZatemniteliNaIllyuminatoryNadstroiki_1962.tif",
@@ -460,7 +531,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "27_SudaGidrobazy_Aisberg_ZatemniteliNaIllyuminatoryNadstroiki_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "BD644E35E158B69F195ED4600F177E0E": {
       "ResultFileName": "28_SudaGidrobazy_Aisberg_PloschadkaDlyaAvariinogoFonarya_1962.tif",
@@ -474,7 +547,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "28_SudaGidrobazy_Aisberg_PloschadkaDlyaAvariinogoFonarya_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "9E80DF759C88B11F8D8F28C1F99B48DC": {
       "ResultFileName": "29_SudaGidrobazy_Andromeda_ReduktorPromyslovyi_Polumufta_1966.tif",
@@ -489,7 +564,9 @@
       "Year": "1966",
       "Thumbnails": {
         "400": "29_SudaGidrobazy_Andromeda_ReduktorPromyslovyi_Polumufta_1966_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "B83284B929EF0C0C4CC506B446F32EBD": {
       "ResultFileName": "30_SudaGidrobazy_Vikhr_BakDlyaKipyacheniyaBelya.tif",
@@ -503,7 +580,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "30_SudaGidrobazy_Vikhr_BakDlyaKipyacheniyaBelya_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "75FF59009C67BE847077F530D570BB47": {
       "ResultFileName": "31_SudaGidrobazy_KryshkaKarteraGlavnogoDvigatelya_1962.tif",
@@ -516,7 +595,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "31_SudaGidrobazy_KryshkaKarteraGlavnogoDvigatelya_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "43458953CAADCFC809F46BB63BD97053": {
       "ResultFileName": "32_SudaGidrobazy_Maslootdelitel.tif",
@@ -529,7 +610,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "32_SudaGidrobazy_Maslootdelitel_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "96D5226D76E14AE4CB2B99DB601008DC": {
       "ResultFileName": "33_SudaGidrobazy_Vikhr_PorshnevoeKoltsoPuskovogoKlapana_1962.tif",
@@ -543,7 +626,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "33_SudaGidrobazy_Vikhr_PorshnevoeKoltsoPuskovogoKlapana_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "96E84839FCDE77394E346412245637F3": {
       "ResultFileName": "34_SudaGidrobazy_Vikhr_PredokhranitelnyiKlapan_1962.tif",
@@ -557,7 +642,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "34_SudaGidrobazy_Vikhr_PredokhranitelnyiKlapan_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "251DC8742E6B8EDEBBCA0295F08B5B4D": {
       "ResultFileName": "35_SudaGidrobazy_Volna_BoltyDlyaKrepleniyaIllyuminatora.tif",
@@ -571,7 +658,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "35_SudaGidrobazy_Volna_BoltyDlyaKrepleniyaIllyuminatora_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "8DB41573DC931149C4B7EE1C233336CC": {
       "ResultFileName": "36_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaGrotMachte_1960.tif",
@@ -585,7 +674,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "36_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaGrotMachte_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "D6747C5E793E237DCFC31F98D49C1C4E": {
       "ResultFileName": "37_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaFokMachte_1960.tif",
@@ -599,7 +690,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "37_SudaGidrobazy_Volna_BugeliDlyaKrepleniyaStengiNaFokMachte_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "C4FCA85FBFD2FBA81D92A133584FF95D": {
       "ResultFileName": "38_SudaGidrobazy_Volna_KipovayaPlankaKPoluklyuzamKozyrka_1959.tif",
@@ -613,7 +706,9 @@
       "Year": "1959",
       "Thumbnails": {
         "400": "38_SudaGidrobazy_Volna_KipovayaPlankaKPoluklyuzamKozyrka_1959_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "D585A5609B6A0BDB301ED21C0A36AD9C": {
       "ResultFileName": "39_SudaGidrobazy_Volna_KoltsoKNasosuOkhlazhdeniya.tif",
@@ -627,7 +722,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "39_SudaGidrobazy_Volna_KoltsoKNasosuOkhlazhdeniya_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "86119563A84FEBD138BDAD2DCD598305": {
       "ResultFileName": "40_SudaGidrobazy_Volna_KorpusMaslyanogoFiltra_1962.tif",
@@ -641,7 +738,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "40_SudaGidrobazy_Volna_KorpusMaslyanogoFiltra_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "B683091A6C9C8338135AB573FEC99CF5": {
       "ResultFileName": "41_SudaGidrobazy_Volna_KreplenieShtangiMeteostantsii_1960.tif",
@@ -655,7 +754,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "41_SudaGidrobazy_Volna_KreplenieShtangiMeteostantsii_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "F9BCB62063E579391F252433E9CDF30D": {
       "ResultFileName": "42_SudaGidrobazy_Volna_KryshkaKorpusaMaslyanogoFiltra_1962.tif",
@@ -669,7 +770,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "42_SudaGidrobazy_Volna_KryshkaKorpusaMaslyanogoFiltra_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "CF841935352191A18867C47C7068055B": {
       "ResultFileName": "43_SudaGidrobazy_Volna_NazhimnoiSukharKlapana_1962.tif",
@@ -683,7 +786,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "43_SudaGidrobazy_Volna_NazhimnoiSukharKlapana_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "2B88CC83D6DA7052F91798B0B82B8597": {
       "ResultFileName": "44_SudaGidrobazy_Volna_NapravlyayuschayaVtulkaKlapana_1962.tif",
@@ -697,7 +802,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "44_SudaGidrobazy_Volna_NapravlyayuschayaVtulkaKlapana_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "D185E42CD3ED802419F875545A460938": {
       "ResultFileName": "45_SudaGidrobazy_Volna_StengaDlyaFokIGrotMachty_1960.tif",
@@ -711,7 +818,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "45_SudaGidrobazy_Volna_StengaDlyaFokIGrotMachty_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "72AF22FDA7648BD152CBD73B2026C838": {
       "ResultFileName": "46_SudaGidrobazy_UstanovkaVentilyatoraVApparatnoi_1960.tif",
@@ -724,7 +833,9 @@
       "Year": "1960",
       "Thumbnails": {
         "400": "46_SudaGidrobazy_UstanovkaVentilyatoraVApparatnoi_1960_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "FB505D1AF659B274EE3226D09DC00E80": {
       "ResultFileName": "47_SudaGidrobazy_Volna_FundamentnayaPlitaMaslyanogoFiltra_1962.tif",
@@ -738,7 +849,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "47_SudaGidrobazy_Volna_FundamentnayaPlitaMaslyanogoFiltra_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "AC845423F9D5F79DE5F3493F62533D77": {
       "ResultFileName": "48_SudaGidrobazy_Volna_KorpusVstavkiFiltra_1962.tif",
@@ -752,7 +865,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "48_SudaGidrobazy_Volna_KorpusVstavkiFiltra_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "0596B2815C5F5B959AC72E076835483A": {
       "ResultFileName": "49_SudaGidrobazy_Inei_Buksovka_1964.tif",
@@ -766,7 +881,9 @@
       "Year": "1964",
       "Thumbnails": {
         "400": "49_SudaGidrobazy_Inei_Buksovka_1964_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "E2FC0A72CE1243ECFBC4901EF2DEA07D": {
       "ResultFileName": "50_SudaGidrobazy_Inei_VyushkaDlyaRastitelnogoTrosa.tif",
@@ -780,7 +897,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "50_SudaGidrobazy_Inei_VyushkaDlyaRastitelnogoTrosa_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "46F0DF3C095CD5A14F1062CD090D16E9": {
       "ResultFileName": "51_SudaGidrobazy_Inei_GrebnoiValRabochegoKatera_VnutrenniiValik.tif",
@@ -795,7 +914,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "51_SudaGidrobazy_Inei_GrebnoiValRabochegoKatera_VnutrenniiValik_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "68C297136C2F3E91B93E7793599F8CC2": {
       "ResultFileName": "52_SudaGidrobazy_Inei_Zatemniteli.tif",
@@ -809,7 +930,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "52_SudaGidrobazy_Inei_Zatemniteli_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "AC2D6BA1DBD7DE9057764B25E20A41D4": {
       "ResultFileName": "53_SudaGidrobazy_Inei_LeernyeStoiki.tif",
@@ -823,7 +946,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "53_SudaGidrobazy_Inei_LeernyeStoiki_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "439F4369A51A9D99A30B662B0BCADA4C": {
       "ResultFileName": "54_SudaGidrobazy_Inei_OtsinkovannyiYaschikDlyaKart.tif",
@@ -837,7 +962,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "54_SudaGidrobazy_Inei_OtsinkovannyiYaschikDlyaKart_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "B4A927FBE909619B001D6F8C6AE987DE": {
       "ResultFileName": "55_SudaGidrobazy_Inei_PeroRulyaDlyaNasadokSpasatelnykhKaterov.tif",
@@ -851,7 +978,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "55_SudaGidrobazy_Inei_PeroRulyaDlyaNasadokSpasatelnykhKaterov_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "02DCC8B9270EAE6A62AB0E46BDF17570": {
       "ResultFileName": "56_SudaGidrobazy_Inei_PodstavkaDlyaChainika.tif",
@@ -865,7 +994,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "56_SudaGidrobazy_Inei_PodstavkaDlyaChainika_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "9041192AEE23191C7FF276596B5156CF": {
       "ResultFileName": "57_SudaGidrobazy_Inei_ProtivokrysinyeSchitki.tif",
@@ -879,7 +1010,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "57_SudaGidrobazy_Inei_ProtivokrysinyeSchitki_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "3F1F390CAB2D75E91D5A64C13BF91AE3": {
       "ResultFileName": "58_SudaGidrobazy_Inei_RelingiDlyaOgrazhdeniyaPromernykhLebedok.tif",
@@ -893,7 +1026,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "58_SudaGidrobazy_Inei_RelingiDlyaOgrazhdeniyaPromernykhLebedok_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "1BF7545B4413A748F61B128057BD8C17": {
       "ResultFileName": "59_SudaGidrobazy_Inei_ChekiDlyaKrepleniyaStrel.tif",
@@ -907,7 +1042,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "59_SudaGidrobazy_Inei_ChekiDlyaKrepleniyaStrel_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "C30D6AFCC2BDD09D0C393FD9F49E328E": {
       "ResultFileName": "60_SudaGidrobazy_Inei_ShpilkiSBarashkami.tif",
@@ -921,7 +1058,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "60_SudaGidrobazy_Inei_ShpilkiSBarashkami_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "51FDE7A00FFC1D0F37EFD1C9029BA51F": {
       "ResultFileName": "61_SudaGidrobazy_Inei_YaschikDlyaKartSZamkom_1965.tif",
@@ -935,7 +1074,9 @@
       "Year": "1965",
       "Thumbnails": {
         "400": "61_SudaGidrobazy_Inei_YaschikDlyaKartSZamkom_1965_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "376B225121199F569C64D38C4AB19BA3": {
       "ResultFileName": "62_SudaGidrobazy_Maina_KlyuchZvezdochka.tif",
@@ -949,7 +1090,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "62_SudaGidrobazy_Maina_KlyuchZvezdochka_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "B3F372EB8208A29652260CAF85B0C99A": {
       "ResultFileName": "63_SudaGidrobazy_Maina_OgranichitelRuchkiVklyucheniyaKulachkovoiMufty.tif",
@@ -963,7 +1106,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "63_SudaGidrobazy_Maina_OgranichitelRuchkiVklyucheniyaKulachkovoiMufty_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "2B102BD623EF9CC140259DCAEFF57F52": {
       "ResultFileName": "64_SudaGidrobazy_Mayak_Kronshtein.tif",
@@ -977,7 +1122,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "64_SudaGidrobazy_Mayak_Kronshtein_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "114E0E313D67FA9E2912D6A9830AE834": {
       "ResultFileName": "65_SudaGidrobazy_Maslootdelitel_1959.tif",
@@ -990,7 +1137,9 @@
       "Year": "1959",
       "Thumbnails": {
         "400": "65_SudaGidrobazy_Maslootdelitel_1959_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "A7D0D424652C4F641E4C8CFD169F35F6": {
       "ResultFileName": "66_SudaGidrobazy_Mayak_Maslootdelitel_Kryshka_1959.tif",
@@ -1005,7 +1154,9 @@
       "Year": "1959",
       "Thumbnails": {
         "400": "66_SudaGidrobazy_Mayak_Maslootdelitel_Kryshka_1959_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "4AF0984E7BC02BC7822EB18B724603CA": {
       "ResultFileName": "67_SudaGidrobazy_Mayak_ChertezhNeatributirovan.tif",
@@ -1019,7 +1170,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "67_SudaGidrobazy_Mayak_ChertezhNeatributirovan_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "40F351EEFE845E1B19FAEAD5C7D761B6": {
       "ResultFileName": "68_SudaGidrobazy_Moryana_BoltikForsunkiVspomogatelnogoDvigatelya_1962.tif",
@@ -1033,7 +1186,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "68_SudaGidrobazy_Moryana_BoltikForsunkiVspomogatelnogoDvigatelya_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "078550EA87A5D4278A2D1425A97D2D72": {
       "ResultFileName": "69_SudaGidrobazy_Moryana_DvigatelVikstrem_BoltShatunnyi_1962.tif",
@@ -1048,7 +1203,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "69_SudaGidrobazy_Moryana_DvigatelVikstrem_BoltShatunnyi_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "EA31AD1C206B2E45796D730A2A560DCE": {
       "ResultFileName": "70_SudaGidrobazy_Moryana_DvigatelVikstrem_GaikaShatunnogoBolta_1962.tif",
@@ -1063,7 +1220,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "70_SudaGidrobazy_Moryana_DvigatelVikstrem_GaikaShatunnogoBolta_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "B77C5C24EBB1F24077745E97259CB23E": {
       "ResultFileName": "71_SudaGidrobazy_Moryana_ZatemnitelNaSvetilnikiPalubnogoOsvescheniya_1962.tif",
@@ -1077,7 +1236,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "71_SudaGidrobazy_Moryana_ZatemnitelNaSvetilnikiPalubnogoOsvescheniya_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "F8589E6ACE05B8A6AAF33856B8204769": {
       "ResultFileName": "72_SudaGidrobazy_Moryana_KolpachekShtokaKlapanaVspomogatelnogoDvigatelya_1962.tif",
@@ -1091,7 +1252,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "72_SudaGidrobazy_Moryana_KolpachekShtokaKlapanaVspomogatelnogoDvigatelya_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "1CB0C7D5944CDE1430850405A41130D8": {
       "ResultFileName": "73_SudaGidrobazy_Moryana_KronshteinDlyaMekhanicheskogoSchetchikaLaga_1962.tif",
@@ -1105,7 +1268,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "73_SudaGidrobazy_Moryana_KronshteinDlyaMekhanicheskogoSchetchikaLaga_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "514942032D7585CDAF9EF42370BF51D4": {
       "ResultFileName": "74_SudaGidrobazy_Moryana_KryshkaVozdushnogoKolpakaNasosa_1962.tif",
@@ -1119,7 +1284,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "74_SudaGidrobazy_Moryana_KryshkaVozdushnogoKolpakaNasosa_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "FC8F7D6CB8B7725B96E431420BA9C5C6": {
       "ResultFileName": "75_SudaGidrobazy_Moryana_MaslyanyiUravnitelnyiBakGlavnogoDvigatelya_1963.tif",
@@ -1133,7 +1300,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "75_SudaGidrobazy_Moryana_MaslyanyiUravnitelnyiBakGlavnogoDvigatelya_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "DD4388E2830A2265E48B47E61D31C77F": {
       "ResultFileName": "76_SudaGidrobazy_Moryana_DvigatelBukauVolf_NapravlyayuschayaKlapana_1962.tif",
@@ -1148,7 +1317,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "76_SudaGidrobazy_Moryana_DvigatelBukauVolf_NapravlyayuschayaKlapana_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "D57FE093C69B6D5E1C1D2A3542F8019F": {
       "ResultFileName": "77_SudaGidrobazy_Moryana_NaruzhnyiGrebnoiValMotokatera.tif",
@@ -1162,7 +1333,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "77_SudaGidrobazy_Moryana_NaruzhnyiGrebnoiValMotokatera_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "7E4640E2CA08882B7687B05D700BADBE": {
       "ResultFileName": "78_SudaGidrobazy_Moryana_ProkladkaPodTsilindrovuyuVtulku.tif",
@@ -1176,7 +1349,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "78_SudaGidrobazy_Moryana_ProkladkaPodTsilindrovuyuVtulku_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "8C9ED0A78B0B3FE503ABBDBD530DB73D": {
       "ResultFileName": "79_SudaGidrobazy_Moryana_ProtektoryGlavnogoDvigatelya.tif",
@@ -1190,7 +1365,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "79_SudaGidrobazy_Moryana_ProtektoryGlavnogoDvigatelya_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "A84AC282A38F4E9DDEC4ADB4CBD88BF1": {
       "ResultFileName": "80_SudaGidrobazy_Moryana_SetkiFiltrovGlavnogoKingstona_1962.tif",
@@ -1204,7 +1381,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "80_SudaGidrobazy_Moryana_SetkiFiltrovGlavnogoKingstona_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "C981CB2FFBBC8AA32C71A5AC8D56CB51": {
       "ResultFileName": "81_SudaGidrobazy_Moryana_UgolnikiNaPlanshir.tif",
@@ -1218,7 +1397,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "81_SudaGidrobazy_Moryana_UgolnikiNaPlanshir_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "5994F11AFC8F8778EEAB39DE58DC119A": {
       "ResultFileName": "82_SudaGidrobazy_Moryana_UgolnikiNaShpangouty.tif",
@@ -1232,7 +1413,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "82_SudaGidrobazy_Moryana_UgolnikiNaShpangouty_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "655E3C74F9E81DBB08E7ADC5029033FC": {
       "ResultFileName": "83_SudaGidrobazy_Moryana_TsisternaOkhlazhdeniyaRefrizheratora.tif",
@@ -1246,7 +1429,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "83_SudaGidrobazy_Moryana_TsisternaOkhlazhdeniyaRefrizheratora_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "3DB9D2E3EE380114BC3D12C1CC151600": {
       "ResultFileName": "84_SudaGidrobazy_Moryana_ShinaNaGruzovoiLyuk_1962.tif",
@@ -1260,7 +1445,9 @@
       "Year": "1962",
       "Thumbnails": {
         "400": "84_SudaGidrobazy_Moryana_ShinaNaGruzovoiLyuk_1962_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "CC18C19B02BC259608FA963B56AF0CC5": {
       "ResultFileName": "85_SudaGidrobazy_Nerpa_DvigatelRuston_KreplenieRadiatora_1963.tif",
@@ -1275,7 +1462,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "85_SudaGidrobazy_Nerpa_DvigatelRuston_KreplenieRadiatora_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "63F0BC473F7C369E39F71D9AAFBF9F6D": {
       "ResultFileName": "86_SudaGidrobazy_Sekstan_GnezdaDlyaOgnetushitelei.tif",
@@ -1289,7 +1478,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "86_SudaGidrobazy_Sekstan_GnezdaDlyaOgnetushitelei_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "66FA1244F47685FA7655E8D79D509BDA": {
       "ResultFileName": "87_SudaGidrobazy_Sekstan_UgolnikiDlyaPolkiGiroposta.tif",
@@ -1303,7 +1494,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "87_SudaGidrobazy_Sekstan_UgolnikiDlyaPolkiGiroposta_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "0EF9E0AC5F164AE4034704CA0397EE60": {
       "ResultFileName": "88_SudaGidrobazy_Farvater_KlapanSGolovkoiSpusknogoKlapanaToplivnoiTsisterny.tif",
@@ -1317,7 +1510,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "88_SudaGidrobazy_Farvater_KlapanSGolovkoiSpusknogoKlapanaToplivnoiTsisterny_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "3FFE770A3A9EED956365DA5B2FD7CB39": {
       "ResultFileName": "89_SudaGidrobazy_Farvater_KorpusSpusknogoKlapanaToplivnoiTsisterny.tif",
@@ -1331,7 +1526,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "89_SudaGidrobazy_Farvater_KorpusSpusknogoKlapanaToplivnoiTsisterny_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "9B4C2A08082C5C55E15AB17E328A5D41": {
       "ResultFileName": "90_SudaGidrobazy_Farvater_KryshkaKarternogoLyuka.tif",
@@ -1345,7 +1542,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "90_SudaGidrobazy_Farvater_KryshkaKarternogoLyuka_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "6422D82C3A2EDC7A1EDA8E1574A5D847": {
       "ResultFileName": "91_SudaGidrobazy_Shkval_GaikiSalnikaDeidvuda_1974.tif",
@@ -1359,7 +1558,9 @@
       "Year": "1974",
       "Thumbnails": {
         "400": "91_SudaGidrobazy_Shkval_GaikiSalnikaDeidvuda_1974_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "7554B62F7BE1BBA321CB92B07A7C99B7": {
       "ResultFileName": "92_SudaGidrobazy_Shtorm_BashmakDlyaSemnoiKranbalki_1963.tif",
@@ -1373,7 +1574,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "92_SudaGidrobazy_Shtorm_BashmakDlyaSemnoiKranbalki_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "EA479FA22AC6BD6818A34F80E1E394A7": {
       "ResultFileName": "93_SudaGidrobazy_Shtorm_KozhukhKReshetke_1963.tif",
@@ -1387,7 +1590,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "93_SudaGidrobazy_Shtorm_KozhukhKReshetke_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "CD23C531026D45166B32DD1E51EC4038": {
       "ResultFileName": "94_SudaGidrobazy_Shtorm_KorpusFiltra_1963.tif",
@@ -1401,7 +1606,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "94_SudaGidrobazy_Shtorm_KorpusFiltra_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "6104508D24DABB943D747A592030FACA": {
       "ResultFileName": "95_SudaGidrobazy_Shtorm_KryshkaKFiltru_1963.tif",
@@ -1415,7 +1622,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "95_SudaGidrobazy_Shtorm_KryshkaKFiltru_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "C64D420FC866E36C3C7D3C22CBB61E70": {
       "ResultFileName": "96_SudaGidrobazy_Shtorm_KronshteinINokKranbalki_1963.tif",
@@ -1429,7 +1638,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "96_SudaGidrobazy_Shtorm_KronshteinINokKranbalki_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "0FC0990BFC065EA6F2E9B02BAC05981A": {
       "ResultFileName": "97_SudaGidrobazy_Shtorm_SemnayaKranbalka_1963.tif",
@@ -1443,7 +1654,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "97_SudaGidrobazy_Shtorm_SemnayaKranbalka_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "C170C0522D2E19B02BEA68CF75F3F93B": {
       "ResultFileName": "98_SudaGidrobazy_Shtorm_DvutavrovayaStoikaDlyaPaluby.tif",
@@ -1457,7 +1670,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "98_SudaGidrobazy_Shtorm_DvutavrovayaStoikaDlyaPaluby_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "6B3E4078B527089F94E36CF3100528A3": {
       "ResultFileName": "99_SudaGidrobazy_Shtorm_TsinkovayaZaschita_1963(2).tif",
@@ -1472,7 +1687,9 @@
       "Year": null,
       "Thumbnails": {
         "400": "99_SudaGidrobazy_Shtorm_TsinkovayaZaschita_1963(2)_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     }
   }
 }

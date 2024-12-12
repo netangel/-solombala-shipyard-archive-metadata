@@ -15,7 +15,9 @@
       "Year": "1945",
       "Thumbnails": {
         "400": "001_BotDlyaMurmana_ObscheeRaspolozhenie_Obnovlennyy_1945_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     },
     "ACF6886127F05DB344805362401A79EF": {
       "ResultFileName": "002_BotDlyaMurmana_TeoreticheskiyChertezh_1963.tif",
@@ -28,7 +30,9 @@
       "Year": "1963",
       "Thumbnails": {
         "400": "002_BotDlyaMurmana_TeoreticheskiyChertezh_1963_400.png"
-      }
+      },
+      "MultiPage": false,
+      "PngFilePages": []
     }
   }
 }
